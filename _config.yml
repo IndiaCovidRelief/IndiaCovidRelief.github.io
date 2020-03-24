@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: COVID-19 Support Resources
+plugins:
+  - jekyll-seo-tag
+  
+webmaster_verifications:
+  google: -gtpTDwhx8zNThdl3XEQuA8VBSmjqWVuGYrE0Um841A

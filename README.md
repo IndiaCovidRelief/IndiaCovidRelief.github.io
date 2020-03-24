@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## COVID-19 Support Links
 
-You can use the [editor on GitHub](https://github.com/ayushbaid/covid_help/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayushbaid/covid_help/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Sr No. | Organization      | Beneficiaries              | Form of support | Modified description                                         | Link                                                         |
+| ------ | ----------------- | -------------------------- | --------------- | ---- | ------------------------------------------------------------ | -------------------------------------------- |
+| 1      | Give India        | Daily wage workers         | Cash            |  Beneficiaries are daily wage workers' families, whose profiles are sourced from trusted non-profit partners, including Aadhar & Ration card details. Funds are disbursed through non-profit partners, adhering to GiveIndia's governance mechanisms. | https://indiafightscorona.giveindia.org/support-families/    |                                              |
+| 2      | Zomato  + Grofers | Daily wage workers         | Ration kits     | This initiative, called "Feed the Daily Wager" is a joint endeavor of Zomato and Grofers. It aims to deliver ration kits to families of daily wage workers via local NGOs across 26 cities. The ration kits are sufficient to sustain a family of 5 for a week." | https://www.zomato.com/blog/feed-daily-wager |
+| 3      | Milaap            | Trans community in Chennai | Ration kits     | The trans community is one of the worst affected by the ongoing crisis, with most of them relying on the unorganized sector to earn their daily wages. This initiative aims to help a group of 100 people in Chennai, by providing them the basic provisions like food, salt, masks, drinking water, soap and medical supplies, to get through these testing times. | https://milaap.org/fundraisers/support-kanaga                |                                              |
