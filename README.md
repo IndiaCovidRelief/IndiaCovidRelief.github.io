@@ -2,7 +2,7 @@
 
 | Sr No. | Organization      | Beneficiaries              | Form of support | City/States Covered
 | ------ | ----------------- | -------------------------- | --------------- | -------------------
-"| 1     | [Give India](https://indiafightscorona.giveindia.org/support-families/)  |  Daily wage workers | Cash | NA | 
+| 1     | [Give India](https://indiafightscorona.giveindia.org/support-families/)  |  Daily wage workers | Cash | NA | 
 | 2     | [Zomato  + Grofers](https://www.zomato.com/blog/feed-daily-wager)  |  Daily wage workers | Ration kits | NA | 
 | 3     | [Kanaga](https://milaap.org/fundraisers/support-kanaga)  |  Trans community in Chennai | Ration kits | Chennai | 
 | 4     | [Paigam](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)  |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
