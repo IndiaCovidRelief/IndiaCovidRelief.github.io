@@ -6,10 +6,10 @@ TODO: just one or two lines here. Do not want to go directly on the information.
 
 Please click on the type of campaign you want to support
 
-1. <u>[Cash](#cash)</u>
-2. <u>[Food](#food)</u>
-3. <u>[Sanitary](#sanitatry)</u>
-4. <u>[All](#all)</u>
+1. [Cash](#cash)
+2. [Food](#food)
+3. [Sanitary](#sanitatry)
+4. [All](#all)
 
 **Note**: We are trying to collate help campaigns add much as possible. If you want to suggest a campaign to add on this page, please *[Click Here](https://forms.gle/Hv9g8vqPD7n3jNgR8)*.
 
