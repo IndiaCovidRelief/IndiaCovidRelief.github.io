@@ -6,20 +6,12 @@ TODO: just one or two lines here. Do not want to go directly on the information.
 
 Please click on the type of campaign you want to support
 
-
-
-1. [Cash](#cash)
-2. [Food](#food)
-3. [Sanitary](#Sanitary)
-4. [All](#all)
-
-Test begin:
-<section class="page-header">
-<a href="#cash" class="btn">Cash Button</a>
+<section  id="page-header">
+<a href="#cash" class="btn">Cash</a> 
+<a href="#food" class="btn">Food</a> 
+<a href="#sanitary" class="btn">Sanitary</a> 
+<a href="#all" class="btn">All</a> 
 </section>
-
-Test end
-
 **Note**: We are trying to collate help campaigns add much as possible. If you want to suggest a campaign to add on this page, please *[Click Here](https://forms.gle/Hv9g8vqPD7n3jNgR8)*.
 
 ## Cash
