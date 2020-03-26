@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 title: COVID-19 Support Resources for India
 plugins:
   - jekyll-seo-tag
+github:
+  is_project_page: false
   
 webmaster_verifications:
   google: -gtpTDwhx8zNThdl3XEQuA8VBSmjqWVuGYrE0Um841A
