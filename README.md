@@ -11,6 +11,12 @@ Please click on the type of campaign you want to support
 3. [Sanitary](#Sanitary)
 4. [All](#all)
 
+Test begin:
+
+<a href="#cash" class="btn">Cash Button</a>
+
+Test end
+
 **Note**: We are trying to collate help campaigns add much as possible. If you want to suggest a campaign to add on this page, please *[Click Here](https://forms.gle/Hv9g8vqPD7n3jNgR8)*.
 
 ## Cash
