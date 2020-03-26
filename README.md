@@ -6,7 +6,7 @@ TODO: just one or two lines here. Do not want to go directly on the information.
 
 Please click on the type of campaign you want to support
 
-<section  id="page-header">
+<section  class="page-header">
 <a href="#cash" class="btn">Cash</a> 
 <a href="#food" class="btn">Food</a> 
 <a href="#sanitary" class="btn">Sanitary</a> 
