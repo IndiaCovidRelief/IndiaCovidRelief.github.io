@@ -8,7 +8,7 @@ Please click on the type of campaign you want to support
 
 1. [Cash](#cash)
 2. [Food](#food)
-3. [Sanitary](#sanitatry)
+3. [Sanitary](#Sanitary)
 4. [All](#all)
 
 **Note**: We are trying to collate help campaigns add much as possible. If you want to suggest a campaign to add on this page, please *[Click Here](https://forms.gle/Hv9g8vqPD7n3jNgR8)*.
