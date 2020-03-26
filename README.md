@@ -6,14 +6,17 @@ TODO: just one or two lines here. Do not want to go directly on the information.
 
 Please click on the type of campaign you want to support
 
+
+
 1. [Cash](#cash)
 2. [Food](#food)
 3. [Sanitary](#Sanitary)
 4. [All](#all)
 
 Test begin:
-
+<section class="page-header">
 <a href="#cash" class="btn">Cash Button</a>
+</section>
 
 Test end
 
