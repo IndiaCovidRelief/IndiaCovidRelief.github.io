@@ -1,18 +1,6 @@
-<style>
-table th:first-of-type {
-    width: 40%;
-}
-table th:nth-of-type(2) {
-    width: 20%;
-}
-table th:nth-of-type(3) {
-    width: 20%;
-}
-table th:nth-of-type(4) {
-    width: 20%;
-}
-</style>
-
+---
+layout: default
+---
 # India Needs Your Help
 
 Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
@@ -26,21 +14,19 @@ This is an attempt to collate the several active campaigns that are working to b
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
-<a href="#all" class="btn"  style="width:15em;display:inline-block">All</a>
+<a href="#all" class="btn"  style="width:15em;display:inline-block;text-align:center;">All</a>
 <hr>
-<a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block">Daily Wage Workers</a> 
+<a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block;text-align:center;">Daily Wage Workers</a> 
 <br>
-<a href="#homeless" class="btn"  style="width:15em;display:inline-block">Homeless</a> 
+<a href="#homeless" class="btn"  style="width:15em;display:inline-block;text-align:center;">Homeless</a> 
 <br>
-<a href="#trash-pickers" class="btn"  style="width:15em;display:inline-block">Trash Pickers</a>
+<a href="#trash-pickers" class="btn"  style="width:15em;display:inline-block;text-align:center;">Trash Pickers</a>
 <hr>
-<a href="#mumbai" class="btn"  style="width:15em;display:inline-block">Mumbai</a> 
+<a href="#mumbai" class="btn"  style="width:15em;display:inline-block;text-align:center;">Mumbai</a> 
 <br>
-<a href="#delhi" class="btn"  style="width:15em;display:inline-block">Delhi</a> 
+<a href="#delhi" class="btn"  style="width:15em;display:inline-block;text-align:center;">Delhi</a> 
 <br>
-<a href="#karnataka" class="btn"  style="width:15em;display:inline-block">Karnataka</a> 
-
-
+<a href="#karnataka" class="btn"  style="width:15em;display:inline-block;text-align:center;">Karnataka</a> 
 </section>
 
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
@@ -203,4 +189,3 @@ Hasiru Dala has identified ~1000 vulnerable wastepickers’ families (no BPL/rat
 
 <hr>
 **Disclaimer**: We are not associated with any of the initiatives mentioned on this page. Our objective is to aggregate various support programs and campaings to hopefully provide them additional visibility, and to provide potential donors with concise information.
-
