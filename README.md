@@ -11,17 +11,23 @@ This is an attempt to collate all possible active campaigns that are working to 
 Please select the type of campaign you want to support:
 
 <section  class="page-header">
-<a href="#cash" class="btn" style="width:20em">Cash Support</a> 
-<a href="#food" class="btn" style="width:20em">Food Support</a> 
-<a href="#sanitary" class="btn"  style="width:20em">Sanitary Support </a> 
+<section style="width:100%">
+<a href="#cash" class="btn" style="width:100%">Cash Support</a> 
+<a href="#food" class="btn" style="width:100%">Food Support</a> 
+<a href="#sanitary" class="btn"  style="width:100%">Sanitary Support </a> 
+</section>
 <br>
-<a href="#all" class="btn"  style="width:20em">Daily Wage Workers</a> 
-<a href="#all" class="btn"  style="width:20em">Homeless</a> 
-<a href="#all" class="btn"  style="width:20em">Trash Pickers</a> 
+<section style="width:100%">
+<a href="#all" class="btn"  style="width:100%">Daily Wage Workers</a> 
+<a href="#all" class="btn"  style="width:100%">Homeless</a> 
+<a href="#all" class="btn"  style="width:100%">Trash Pickers</a>
+</section>
 <br>
-<a href="#all" class="btn"  style="width:20em">Mumbai</a> 
-<a href="#all" class="btn"  style="width:20em">Delhi</a> 
-<a href="#all" class="btn"  style="width:20em">Karnataka</a> 
+<section style="width:100%">
+<a href="#all" class="btn"  style="width:100%">Mumbai</a> 
+<a href="#all" class="btn"  style="width:100%">Delhi</a> 
+<a href="#all" class="btn"  style="width:100%">Karnataka</a> 
+</section>
 <br>
 <a href="#all" class="btn"  style="width:20em">All</a>
 </section>
