@@ -115,11 +115,12 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Bangalore
+
 | Organization                                                 | Beneficiaries                                                | Form of support           | City/States |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------------ |
-| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] </span>| Waste pickers                                   | Ration Kits               | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad      |
-| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] | Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygiene kits | Hyderabad, North karnataka, Bangalore, Chennai               |
-| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] | Daily wagers, house help etc.                                | Food and Medicines        | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat ,and Malegaon |
+| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\]</span> | Waste pickers                                   | Ration Kits               | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad      |
+| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] </span> | Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygiene kits | Hyderabad, North Karnataka, Bangalore, Chennai               |
+| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\]</span> | Daily wagers, house help etc.                                | Food and Medicines        | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat ,and Malegaon |
 
 
 
