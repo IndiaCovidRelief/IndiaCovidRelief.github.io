@@ -1,6 +1,6 @@
 # India Needs Your Help
 
-Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutdown of non-essential businesses left about 460 million Indians (about 94% of our total workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income and their next meal.
+On March 11, 2020, WHO declared the COVID-19 a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), following which India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655), shutting down non-essential businesses, leaving about 460 million Indians (about 94% of our total workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
 
 Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
 
@@ -10,6 +10,7 @@ This is an attempt to collate all possible active campaigns that are working to 
 
 Please select the type of campaign you want to support:
 
+<section  class="page-header">
 <a href="#cash" class="btn" style="width:15em">Cash Support</a> 
 </br>
 <a href="#food" class="btn" style="width:15em">Food Support</a>
@@ -202,6 +203,6 @@ Hasiru Dala has identified ~1000 vulnerable wastepickers’ families (no BPL/rat
 - Payment Modes Available: Direct Bank Account Transfer
 - 80G Eligible: Yes
 
-
-**Note**: We are not associated with any of the initiatives mentioned on this page. Our objective is to aggregate various support programs and campaings to hopefully provide them additional visibility, and to provide potential donors with concise information.
+<hr>
+**Disclaimer**: We are not associated with any of the initiatives mentioned on this page. Our objective is to aggregate various support programs and campaings to hopefully provide them additional visibility, and to provide potential donors with concise information.
 
