@@ -17,7 +17,7 @@ Please select the type of campaign you want to support:
 <br>
 <a href="#all" class="btn">Daily Wage Workers</a> 
 <a href="#all" class="btn">Homeless</a> 
-<a href="#all" class="btn">Thrash Pickers</a> 
+<a href="#all" class="btn">Trash Pickers</a> 
 <br>
 <a href="#all" class="btn">Mumbai</a> 
 <a href="#all" class="btn">Delhi</a> 
