@@ -10,7 +10,7 @@ This is an attempt to collate the several active campaigns that are working to b
 
 Please select the type of campaign you want to support. Use All to see initiatives for other groups/locations too.
 
-<section  class="page-header" align="center">
+<section  class="page-header" style="text-align:center">
 <a href="#daily-wage-workers" class="btn"  style="width:15em">Daily Wage Workers</a> 
 <br>
 <a href="#homeless" class="btn"  style="width:15em">Homeless</a> 
