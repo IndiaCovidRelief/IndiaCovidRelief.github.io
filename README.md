@@ -37,7 +37,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 <br>
 <a href="#delhi" class="btn"  style="width:15em;display:inline-block;text-align:center;">Delhi</a> 
 <br>
-<a href="#karnataka" class="btn"  style="width:15em;display:inline-block;text-align:center;">Karnataka</a> 
+<a href="#bangalore" class="btn"  style="width:15em;display:inline-block;text-align:center;">Karnataka</a> 
 </section>
 
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
