@@ -96,6 +96,8 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Mumbai
+| Organization                       | Beneficiaries | Form of support | City/States |
+| ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
 | YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai | 
 | Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#Making-The-Difference)\] |  Underprivileged in Mumbai | Ration kits | Mumbai | 
 | Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#Help-for-Sex-Workers-(Personal-Campaign))\] |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai | 
