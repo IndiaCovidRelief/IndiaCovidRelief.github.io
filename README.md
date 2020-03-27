@@ -26,6 +26,8 @@ This is an attempt to collate the several active campaigns that are working to b
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
+<a href="#all" class="btn"  style="width:15em;display:inline-block">All</a>
+<hr>
 <a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block">Daily Wage Workers</a> 
 <br>
 <a href="#homeless" class="btn"  style="width:15em;display:inline-block">Homeless</a> 
@@ -37,29 +39,12 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 <a href="#delhi" class="btn"  style="width:15em;display:inline-block">Delhi</a> 
 <br>
 <a href="#karnataka" class="btn"  style="width:15em;display:inline-block">Karnataka</a> 
-<hr>
-<a href="#all" class="btn"  style="width:15em;display:inline-block">All</a>
+
+
 </section>
 
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
-## Daily Wage Workers
-TODO
-
-## Homeless
-TODO
-
-## Trash Pickers
-TODO
-
-## Mumbai
-TODO
-
-## Delhi
-TODO
-
-## Karnataka
-TODO
 
 ## All
 
@@ -81,6 +66,23 @@ TODO
 | Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad | 
 
 
+## Daily Wage Workers
+TODO
+
+## Homeless
+TODO
+
+## Trash Pickers
+TODO
+
+## Mumbai
+TODO
+
+## Delhi
+TODO
+
+## Karnataka
+TODO
 
 
 
