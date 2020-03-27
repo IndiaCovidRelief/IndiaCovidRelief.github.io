@@ -65,9 +65,9 @@ TODO
 
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| Give India - Support Families <br><span style='font-size:0.8em'> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\] \[[Details]()\] |  Daily wage workers | Cash | Pan India | 
-| Zomato India <br><span style='font-size:0.8em'> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\] \[[Details]()\] |  Daily wage workers | Ration kits | Pan India | 
-| Kanaga (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-kanaga)\] \[[Details]()\] |  Trans community in Chennai | Ration kits | Chennai | 
+| Give India - Support Families <br><span style='font-size:0.8em'> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\] \[[Details](#Give-India)\] |  Daily wage workers | Cash | Pan India | 
+| Zomato India <br><span style='font-size:0.8em'> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\] \[[Details](#Zomato-India)\] |  Daily wage workers | Ration kits | Pan India | 
+| Kanaga (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-kanaga)\] \[[Details](#Kanaga)\] |  Trans community in Chennai | Ration kits | Chennai | 
 | Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details]()\] |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
 | Goonj - Rahat COVID-19 <br><span style='font-size:0.8em'> \[[Go To Page](https://goonj.org/support-covid-19-affected/)\] \[[Details]()\] |  Daily wage workers | Groceries and basic necessities | National | 
 | Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details]()\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad | 
