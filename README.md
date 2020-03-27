@@ -8,22 +8,22 @@ This is an attempt to collate the several active campaigns that are working to b
 
 #  Links to Support Initiatives
 
-Please select the type of campaign you want to support. Use All to see initiatives for other groups/locations too.
+Please select the type of campaign you want to support. Use *All* button to see initiatives for other groups/locations too.
 
-<section  class="page-header" align="center">
-<a href="#daily-wage-workers" class="btn"  style="width:15em">Daily Wage Workers</a> 
+<section  class="page-header">
+<a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block">Daily Wage Workers</a> 
 <br>
-<a href="#homeless" class="btn"  style="width:15em">Homeless</a> 
+<a href="#homeless" class="btn"  style="width:15em;display:inline-block">Homeless</a> 
 <br>
-<a href="#trash-pickers" class="btn"  style="width:15em">Trash Pickers</a>
+<a href="#trash-pickers" class="btn"  style="width:15em;display:inline-block">Trash Pickers</a>
 <hr>
-<a href="#mumbai" class="btn"  style="width:15em">Mumbai</a> 
+<a href="#mumbai" class="btn"  style="width:15em;display:inline-block">Mumbai</a> 
 <br>
-<a href="#delhi" class="btn"  style="width:15em">Delhi</a> 
+<a href="#delhi" class="btn"  style="width:15em;display:inline-block">Delhi</a> 
 <br>
-<a href="#karnataka" class="btn"  style="width:15em">Karnataka</a> 
+<a href="#karnataka" class="btn"  style="width:15em;display:inline-block">Karnataka</a> 
 <hr>
-<a href="#all" class="btn"  style="width:15em">All</a>
+<a href="#all" class="btn"  style="width:15em;display:inline-block">All</a>
 </section>
 
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
