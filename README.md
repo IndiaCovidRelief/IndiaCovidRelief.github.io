@@ -25,7 +25,7 @@ This is an attempt to collate the several active campaigns that are working to b
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
-<a href="#all" class="btn"  style="width:15em;display:inline-block;text-align:center;">All</a>
+<a href="#all-campaings" class="btn"  style="width:15em;display:inline-block;text-align:center;">All Campaings</a>
 <hr>
 <a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block;text-align:center;">Daily Wage Workers</a> 
 <br>
@@ -43,55 +43,55 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
 
-## All
+## All Campaings
 
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| Give India - Support Families <br><span style='font-size:0.8em'> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\] \[[Details](#Give-India---Support-Families)\] |  Daily wage workers | Cash | Pan India | 
-| Zomato India <br><span style='font-size:0.8em'> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\] \[[Details](#Zomato-India)\] |  Daily wage workers | Ration kits | Pan India | 
-| Kanaga (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-kanaga)\] \[[Details](#Kanaga-(Personal-Campaign))\] |  Trans community in Chennai | Ration kits | Chennai | 
-| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
-| Goonj - Rahat COVID-19 <br><span style='font-size:0.8em'> \[[Go To Page](https://goonj.org/support-covid-19-affected/)\] \[[Details](#Goonj---Rahat-COVID-19)\] |  Daily wage workers | Groceries and basic necessities | National | 
-| Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#Elixir-Foundation)\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad | 
-| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai | 
-| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon | 
-| Uday Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA)\] \[[Details](#Uday-Foundation)\] |  Homeless individuals | Food, Sanitizers, Soap | Pan India | 
-| Delhi Youth Welfare Associaltion <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#Delhi-Youth-Welfare-Associaltion)\] |  Daily wage workers | Cash | Delhi | 
-| YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai | 
-| Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#Making-The-Difference)\] |  Underprivileged in Mumbai | Ration kits | Mumbai | 
-| Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#Help-for-Sex-Workers-(Personal-Campaign))\] |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai | 
-| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad | 
+| Give India - Support Families <br><span style='font-size:0.8em'> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\] \[[Details](#Give-India---Support-Families)\] |  Daily wage workers | Cash | Pan India |
+| Zomato India <br><span style='font-size:0.8em'> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\] \[[Details](#Zomato-India)\] |  Daily wage workers | Ration kits | Pan India |
+| Kanaga (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-kanaga)\] \[[Details](#Kanaga-(Personal-Campaign))\] |  Trans community in Chennai | Ration kits | Chennai |
+| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi |
+| Goonj - Rahat COVID-19 <br><span style='font-size:0.8em'> \[[Go To Page](https://goonj.org/support-covid-19-affected/)\] \[[Details](#Goonj---Rahat-COVID-19)\] |  Daily wage workers | Groceries and basic necessities | National |
+| Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#Elixir-Foundation)\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad |
+| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai |
+| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon |
+| Uday Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA)\] \[[Details](#Uday-Foundation)\] |  Homeless individuals | Food, Sanitizers, Soap | Pan India |
+| Delhi Youth Welfare Associaltion <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#Delhi-Youth-Welfare-Associaltion)\] |  Daily wage workers | Cash | Delhi |
+| YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai |
+| Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#Making-The-Difference)\] |  Underprivileged in Mumbai | Ration kits | Mumbai |
+| Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#Help-for-Sex-Workers-(Personal-Campaign))\] |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai |
+| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
 
 
 ## Daily Wage Workers
 
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| Give India - Support Families <br><span style='font-size:0.8em'> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\] \[[Details](#Give-India---Support-Families)\] |  Daily wage workers | Cash | Pan India | 
-| Zomato India <br><span style='font-size:0.8em'> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\] \[[Details](#Zomato-India)\] |  Daily wage workers | Ration kits | Pan India | 
-| Goonj - Rahat COVID-19 <br><span style='font-size:0.8em'> \[[Go To Page](https://goonj.org/support-covid-19-affected/)\] \[[Details](#Goonj---Rahat-COVID-19)\] |  Daily wage workers | Groceries and basic necessities | National | 
-| Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#Elixir-Foundation)\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad | 
-| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai | 
-| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon | 
-| Delhi Youth Welfare Associaltion <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#Delhi-Youth-Welfare-Associaltion)\] |  Daily wage workers | Cash | Delhi | 
-| YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai | 
+| Give India - Support Families <br><span style='font-size:0.8em'> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\] \[[Details](#Give-India---Support-Families)\] |  Daily wage workers | Cash | Pan India |
+| Zomato India <br><span style='font-size:0.8em'> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\] \[[Details](#Zomato-India)\] |  Daily wage workers | Ration kits | Pan India |
+| Goonj - Rahat COVID-19 <br><span style='font-size:0.8em'> \[[Go To Page](https://goonj.org/support-covid-19-affected/)\] \[[Details](#Goonj---Rahat-COVID-19)\] |  Daily wage workers | Groceries and basic necessities | National |
+| Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#Elixir-Foundation)\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad |
+| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai |
+| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon |
+| Delhi Youth Welfare Associaltion <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#Delhi-Youth-Welfare-Associaltion)\] |  Daily wage workers | Cash | Delhi |
+| YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai |
 
 
 ## Homeless
 
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#Elixir-Foundation)\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad | 
-| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai | 
-| Uday Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA)\] \[[Details](#Uday-Foundation)\] |  Homeless individuals | Food, Sanitizers, Soap | Pan India | 
+| Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#Elixir-Foundation)\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad |
+| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai |
+| Uday Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA)\] \[[Details](#Uday-Foundation)\] |  Homeless individuals | Food, Sanitizers, Soap | Pan India |
 
 
 ## Trash Pickers
 
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
-| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad | 
+| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi |
+| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
 
 
 
@@ -99,27 +99,27 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai | 
-| Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#Making-The-Difference)\] |  Underprivileged in Mumbai | Ration kits | Mumbai | 
-| Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#Help-for-Sex-Workers-(Personal-Campaign))\] |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai | 
+| YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai |
+| Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#Making-The-Difference)\] |  Underprivileged in Mumbai | Ration kits | Mumbai |
+| Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#Help-for-Sex-Workers-(Personal-Campaign))\] |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai |
 
 
 ## Delhi
 
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
-| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon | 
-| Delhi Youth Welfare Associaltion <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#Delhi-Youth-Welfare-Associaltion)\] |  Daily wage workers | Cash | Delhi | 
+| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi |
+| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon |
+| Delhi Youth Welfare Associaltion <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#Delhi-Youth-Welfare-Associaltion)\] |  Daily wage workers | Cash | Delhi |
 
 
 
 ## Bangalore
 | Organization                       | Beneficiaries | Form of support | City/States |
-| ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
-| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad | 
-| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai | 
-| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon | 
+| ------------------------------------------------------ | ----------------- | --------------- | 
+| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
+| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai |
+| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon |
 
 
 
@@ -242,3 +242,4 @@ Hasiru Dala has identified ~1000 vulnerable wastepickers’ families (no BPL/rat
 
 <hr>
 **Disclaimer**: We are not associated with any of the initiatives mentioned on this page. Our objective is to aggregate various support programs and campaings to hopefully provide them additional visibility, and to provide potential donors with concise information.
+
