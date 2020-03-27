@@ -30,7 +30,7 @@ Please select the type of campaign you want to support:
 
 ## Cash
 
-| Sr No. | Organization                                                 | Beneficiaries      | Form of support                    | City/States Covered |
+| No. | Organization                                                 | Beneficiaries      | Form of support                    | City/States Covered |
 | ------ | ------------------------------------------------------------ | ------------------ | ---------------------------------- | ------------------- |
 | 1      | [Give India](https://indiafightscorona.giveindia.org/support-families/) | Daily wage workers | Cash                               | NA                  |
 | 4      | [Paigam](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)  | Waste pickers      | Safety kit, Minimum income support | New Delhi           |
@@ -38,7 +38,7 @@ Please select the type of campaign you want to support:
 
 ## Food
 
-| Sr No. | Organization                                                 | Beneficiaries                                                | Form of support                 | City/States Covered                                          |
+| No. | Organization                                                 | Beneficiaries                                                | Form of support                 | City/States Covered                                          |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
 | 2      | [Zomato  + Grofers](https://www.zomato.com/blog/feed-daily-wager) | Daily wage workers                                           | Ration kits                     | NA                                                           |
 | 3      | [Kanaga](https://milaap.org/fundraisers/support-kanaga)      | Trans community in Chennai                                   | Ration kits                     | Chennai                                                      |
@@ -54,14 +54,14 @@ Please select the type of campaign you want to support:
 
 ## Sanitary
 
-| Sr No. | Organization                                                 | Beneficiaries        | Form of support                    | City/States Covered |
+| No. | Organization                                                 | Beneficiaries        | Form of support                    | City/States Covered |
 | ------ | ------------------------------------------------------------ | -------------------- | ---------------------------------- | ------------------- |
 | 4      | [Paigam](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)  | Waste pickers        | Safety kit, Minimum income support | New Delhi           |
 | 9      | [Uday Foundation](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA) | Homeless individuals | Food, Sanitizers, Soap             | Pan India           |
 
 ## All
 
-| Sr No. | Organization      | Beneficiaries              | Form of support | City/States Covered |
+| No. | Organization      | Beneficiaries              | Form of support | City/States Covered |
 | ------ | ----------------- | -------------------------- | --------------- | ------------------- |
 | 1     | [Give India](https://indiafightscorona.giveindia.org/support-families/)  |  Daily wage workers | Cash | NA |
 | 2     | [Zomato  + Grofers](https://www.zomato.com/blog/feed-daily-wager)  |  Daily wage workers | Ration kits | NA |
