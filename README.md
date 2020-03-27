@@ -67,6 +67,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Daily Wage Workers
+
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
 | Give India - Support Families <br><span style='font-size:0.8em'> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\] \[[Details](#Give-India---Support-Families)\] |  Daily wage workers | Cash | Pan India | 
@@ -80,6 +81,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Homeless
+
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
 | Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#Elixir-Foundation)\] |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad | 
@@ -88,6 +90,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Trash Pickers
+
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
 | Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
@@ -96,6 +99,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Mumbai
+
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
 | YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#YUVA)\] |  Daily wage workers | Ration kits | Mumbai | 
@@ -104,6 +108,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Delhi
+
 | Organization                       | Beneficiaries | Form of support | City/States |
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
 | Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#Paigam)\] |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
