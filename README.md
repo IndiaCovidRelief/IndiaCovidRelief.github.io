@@ -12,26 +12,26 @@ Please select the type of campaign you want to support:
 
 <section  class="page-header">
 <a href="#cash" class="btn" style="width:15em">Cash Support</a> 
-</br>
+<br>
 <a href="#food" class="btn" style="width:15em">Food Support</a>
-</br>
+<br>
 <a href="#sanitary" class="btn" style="width:15em">Sanitary Support</a>
-</br>
 <br>
+<hr>
 <a href="#all" class="btn"  style="width:15em">Daily Wage Workers</a> 
-</br>
+<br>
 <a href="#all" class="btn"  style="width:15em">Homeless</a> 
-</br>
+<br>
 <a href="#all" class="btn"  style="width:15em">Trash Pickers</a>
-</br>
 <br>
+<hr>
 <a href="#all" class="btn"  style="width:15em">Mumbai</a> 
-</br>
-<a href="#all" class="btn"  style="width:15em">Delhi</a> 
-</br>
-<a href="#all" class="btn"  style="width:15em">Karnataka</a> 
-</br>
 <br>
+<a href="#all" class="btn"  style="width:15em">Delhi</a> 
+<br>
+<a href="#all" class="btn"  style="width:15em">Karnataka</a> 
+<br>
+<hr>
 <a href="#all" class="btn"  style="width:15em">All</a>
 </section>
 
