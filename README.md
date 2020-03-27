@@ -12,7 +12,7 @@ Please click on the type of campaign you want to support
 <a href="#sanitary" class="btn">Sanitary</a> 
 <a href="#all" class="btn">All</a> 
 </section>
-**Note**: We are trying to collate help campaigns add much as possible. If you want to suggest a campaign to add on this page, please *[Click Here](https://forms.gle/Hv9g8vqPD7n3jNgR8)*.
+**Note**: We are trying to collate help campaigns add much as possible. If you want to suggest a campaign to add on this page, please *[Click Here](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
 ## Cash
 
