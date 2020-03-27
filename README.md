@@ -48,6 +48,8 @@ TODO
 
 ## All
 
+| Organization      | Beneficiaries              | Form of support | City/States Covered |
+| ----------------- | -------------------------- | --------------- | ------------------- |
 | Give India - Support Families <br> \[[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\]\[[Details}]()\] |  Daily wage workers | Cash | Pan India | 
 | Zomato India <br> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\]\[[Details}]()\] |  Daily wage workers | Ration kits | Pan India | 
 | Kanaga (Personal Campaign) <br> \[[Go To Page](https://milaap.org/fundraisers/support-kanaga)\]\[[Details}]()\] |  Trans community in Chennai | Ration kits | Chennai | 
