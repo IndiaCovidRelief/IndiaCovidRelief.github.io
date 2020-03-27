@@ -10,7 +10,7 @@ This is an attempt to collate all possible active campaigns that are working to 
 
 Please select the type of campaign you want to support:
 
-<section  class="page-header">
+<section  class="page-header" align="center">
 <a href="#cash" class="btn" style="width:15em">Cash Support</a> 
 <br>
 <a href="#food" class="btn" style="width:15em">Food Support</a>
