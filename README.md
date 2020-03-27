@@ -8,62 +8,43 @@ This is an attempt to collate all possible active campaigns that are working to 
 
 #  Links to Support Initiatives
 
-Please select the type of campaign you want to support:
+Please select the type of campaign you want to support. Use All to see initiatives for other groups/locations too.
 
 <section  class="page-header" align="center">
-<a href="#cash" class="btn" style="width:15em">Cash Support</a> 
+<a href="#daily-wage-workers" class="btn"  style="width:15em">Daily Wage Workers</a> 
 <br>
-<a href="#food" class="btn" style="width:15em">Food Support</a>
+<a href="#homeless" class="btn"  style="width:15em">Homeless</a> 
 <br>
-<a href="#sanitary" class="btn" style="width:15em">Sanitary Support</a>
+<a href="#trash-pickers" class="btn"  style="width:15em">Trash Pickers</a>
 <hr>
-<a href="#all" class="btn"  style="width:15em">Daily Wage Workers</a> 
+<a href="#mumbai" class="btn"  style="width:15em">Mumbai</a> 
 <br>
-<a href="#all" class="btn"  style="width:15em">Homeless</a> 
+<a href="#delhi" class="btn"  style="width:15em">Delhi</a> 
 <br>
-<a href="#all" class="btn"  style="width:15em">Trash Pickers</a>
-<hr>
-<a href="#all" class="btn"  style="width:15em">Mumbai</a> 
-<br>
-<a href="#all" class="btn"  style="width:15em">Delhi</a> 
-<br>
-<a href="#all" class="btn"  style="width:15em">Karnataka</a> 
+<a href="#karnataka" class="btn"  style="width:15em">Karnataka</a> 
 <hr>
 <a href="#all" class="btn"  style="width:15em">All</a>
 </section>
 
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on this *[form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
-## Cash
+## Daily Wage Workers
+TODO
 
-| No. | Organization                                                 | Beneficiaries      | Form of support                    | City/States Covered |
-| ------ | ------------------------------------------------------------ | ------------------ | ---------------------------------- | ------------------- |
-| 1      | [Give India](https://indiafightscorona.giveindia.org/support-families/) | Daily wage workers | Cash                               | NA                  |
-| 4      | [Paigam](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)  | Waste pickers      | Safety kit, Minimum income support | New Delhi           |
-| 10     | [Delhi Youth Welfare Associaltion](https://www.ourdemocracy.in/Campaign/covid19Delhi) | Daily wage workers | Cash                               | Delhi               |
+## Homeless
+TODO
 
-## Food
+## Trash Pickers
+TODO
 
-| No. | Organization                                                 | Beneficiaries                                                | Form of support                 | City/States Covered                                          |
-| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
-| 2      | [Zomato  + Grofers](https://www.zomato.com/blog/feed-daily-wager) | Daily wage workers                                           | Ration kits                     | NA                                                           |
-| 3      | [Kanaga](https://milaap.org/fundraisers/support-kanaga)      | Trans community in Chennai                                   | Ration kits                     | Chennai                                                      |
-| 5      | [Goonj - Rahat COVID-19](https://goonj.org/support-covid-19-affected/) | Daily wage workers                                           | Groceries and basic necessities | National                                                     |
-| 6      | [Elixir Foundation](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view) | Daily wage workers, old age homes, shelters                  | Groceries and basic necessities | Ahmedabad                                                    |
-| 7      | [SAFA Society](https://pages.razorpay.com/Covid19Relief)     | Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits       | Hyderabad                                                    |
-| 8      | [Venkat Iyer](https://milaap.org/fundraisers/support-venkat-iyer) | Daily wagers, house help etc.                                | Food and Medicines              | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon |
-| 9      | [Uday Foundation](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA) | Homeless individuals                                         | Food, Sanitizers, Soap          | Pan India                                                    |
-| 11     | [YUVA](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action) | Daily wage workers                                           | Ration kits                     | Mumbai                                                       |
-| 12     | [Making The Difference](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view) | Underprivileged in Mumbai                                    | Ration kits                     | Mumbai                                                       |
-| 13     | [Help for Sex Workers (Personal Campaign)](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form) | Sex workers and People in Kamathipura, Mumbai                | Groceries and basic necessities | Mumbai                                                       |
-| 14     | [Hasiru Dala ](http://hasirudala.in/news/wastepickers-and-covid19/) | Waste pickers in Karnataka                                   | Ration Kits                     | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad      |
+## Mumbai
+TODO
 
-## Sanitary
+## Delhi
+TODO
 
-| No. | Organization                                                 | Beneficiaries        | Form of support                    | City/States Covered |
-| ------ | ------------------------------------------------------------ | -------------------- | ---------------------------------- | ------------------- |
-| 4      | [Paigam](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)  | Waste pickers        | Safety kit, Minimum income support | New Delhi           |
-| 9      | [Uday Foundation](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA) | Homeless individuals | Food, Sanitizers, Soap             | Pan India           |
+## Karnataka
+TODO
 
 ## All
 
