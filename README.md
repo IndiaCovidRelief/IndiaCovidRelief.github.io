@@ -1,6 +1,6 @@
 # India Needs Your Help
 
-On March 11, 2020, WHO declared the COVID-19 a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), following which India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655), shutting down non-essential businesses, leaving about 460 million Indians (about 94% of our total workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
+On March 11, 2020, WHO declared the COVID-19 a <u>[global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020)</u>, following which India instituted a 3-week long <u>[national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655)</u>, shutting down non-essential businesses, leaving about 460 million Indians (about 94% of our total workforce) that work in the <u>[unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf)</u> uncertain of their income, and in most cases, their next meal.
 
 Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages, including migrant workers, sex workers and all other underprivileged population groups. **You can help these efforts by way of monetary donation.**
 
