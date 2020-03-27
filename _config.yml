@@ -4,6 +4,4 @@ plugins:
   - jekyll-seo-tag
 github:
   is_project_page: false
-analytics:
-  google:
-    tracking_id: UA-162020763-1  
+google_analytics: UA-162020763-1  
