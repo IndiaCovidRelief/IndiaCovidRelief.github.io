@@ -11,20 +11,19 @@ This is an attempt to collate all possible active campaigns that are working to 
 Please select the type of campaign you want to support:
 
 <section  class="page-header">
-<a href="#cash" class="btn">Cash Support</a> 
-<a href="#food" class="btn">Food Support</a> 
-<a href="#sanitary" class="btn">Sanitary Support </a> 
+<a href="#cash" class="btn" style="width:20em">Cash Support</a> 
+<a href="#food" class="btn" style="width:20em">Food Support</a> 
+<a href="#sanitary" class="btn"  style="width:20em">Sanitary Support </a> 
 <br>
-<a href="#all" class="btn">Daily Wage Workers</a> 
-<a href="#all" class="btn">Homeless</a> 
-<a href="#all" class="btn">Thrash Pickers</a> 
+<a href="#all" class="btn"  style="width:20em">Daily Wage Workers</a> 
+<a href="#all" class="btn"  style="width:20em">Homeless</a> 
+<a href="#all" class="btn"  style="width:20em">Thrash Pickers</a> 
 <br>
-<a href="#all" class="btn">Mumbai</a> 
-<a href="#all" class="btn">Delhi</a> 
-<a href="#all" class="btn">Karnataka</a> 
+<a href="#all" class="btn"  style="width:20em">Mumbai</a> 
+<a href="#all" class="btn"  style="width:20em">Delhi</a> 
+<a href="#all" class="btn"  style="width:20em">Karnataka</a> 
 <br>
-<a href="#all" class="btn">All</a>
-
+<a href="#all" class="btn"  style="width:20em">All</a>
 </section>
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on this *[form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
