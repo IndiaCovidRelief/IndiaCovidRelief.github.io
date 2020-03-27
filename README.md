@@ -50,7 +50,7 @@ TODO
 
 | Organization      | Beneficiaries              | Form of support | City/States Covered |
 | ----------------- | -------------------------- | --------------- | ------------------- |
-| Give India - Support Families <br> \[<font size="{1..6}">[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\]\[[Details]()\] |  Daily wage workers | Cash | Pan India | 
+| Give India - Support Families <br> \[<font size="{1..10}">[Go To Page](https://indiafightscorona.giveindia.org/support-families/)\]\[[Details]()\] |  Daily wage workers | Cash | Pan India | 
 | Zomato India <br> \[[Go To Page](https://www.zomato.com/blog/feed-daily-wager)\]\[[Details]()\] |  Daily wage workers | Ration kits | Pan India | 
 | Kanaga (Personal Campaign) <br> \[[Go To Page](https://milaap.org/fundraisers/support-kanaga)\]\[[Details]()\] |  Trans community in Chennai | Ration kits | Chennai | 
 | Paigam <br> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\]\[[Details]()\] |  Waste pickers | Safety kit, Minimum income support | New Delhi | 
