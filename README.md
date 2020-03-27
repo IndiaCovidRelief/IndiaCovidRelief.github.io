@@ -195,5 +195,5 @@ Hasiru Dala has identified ~1000 vulnerable wastepickers’ families (no BPL/rat
 - 80G Eligible: Yes
 
 
-**Note**: We are not associated with any of the initiatives mentioned on this page. Our objective is to aggregate various support programs and campaings to hopefully provide them additional visibility, and to provide potential donors with concise information.
+**Disclaimer**: We are not associated with any of the initiatives mentioned on this page. Our objective is to aggregate various support programs and campaings to hopefully provide them additional visibility, and to provide potential donors with concise information.
 
