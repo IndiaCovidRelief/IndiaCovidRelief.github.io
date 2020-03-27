@@ -7,10 +7,20 @@ TODO: just one or two lines here. Do not want to go directly on the information.
 Please click on the type of campaign you want to support
 
 <section  class="page-header">
-<a href="#cash" class="btn">Cash</a> 
-<a href="#food" class="btn">Food</a> 
-<a href="#sanitary" class="btn">Sanitary</a> 
-<a href="#all" class="btn">All</a> 
+<a href="#cash" class="btn">Cash Support</a> 
+<a href="#food" class="btn">Food Support</a> 
+<a href="#sanitary" class="btn">Sanitary Support </a> 
+<br>
+<a href="#all" class="btn">Daily Wage Workers</a> 
+<a href="#all" class="btn">Homeless</a> 
+<a href="#all" class="btn">Thrash Pickers</a> 
+<br>
+<a href="#all" class="btn">Mumbai</a> 
+<a href="#all" class="btn">Delhi</a> 
+<a href="#all" class="btn">Karnataka</a> 
+<br>
+<a href="#all" class="btn">All</a>
+
 </section>
 **Note**: We are trying to collate help campaigns add much as possible. If you want to suggest a campaign to add on this page, please *[Click Here](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
