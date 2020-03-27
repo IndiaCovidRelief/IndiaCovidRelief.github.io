@@ -180,3 +180,6 @@ Hasiru Dala has identified ~1000 vulnerable wastepickers’ families (no BPL/rat
 - Payment Modes Available: Direct Bank Account Transfer
 - 80G Eligible: Yes
 
+# Disclaimer
+We are not associated with any initiatives mentioned on this page. The aim here is to aggregate various support programs and campaings to hopefuly provide them additional visibility, and to provide potential doners with concise information.
+
