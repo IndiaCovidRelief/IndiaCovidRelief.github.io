@@ -32,7 +32,7 @@ Please select the type of campaign you want to support:
 <a href="#all" class="btn"  style="width:15em">All</a>
 </section>
 
-**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on this *[form](https://forms.gle/6uLcxdyhKToDQoc68)*.
+**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
 ## Cash
 
