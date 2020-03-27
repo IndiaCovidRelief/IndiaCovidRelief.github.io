@@ -1,10 +1,10 @@
 # India Needs Your Help
 
-On March 11, 2020, WHO declared the COVID-19 a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), following which India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655), shutting down non-essential businesses, leaving about 460 million Indians (about 94% of our total workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
+Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
 
 Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
 
-This is an attempt to collate all possible active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
+This is an attempt to collate the several active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
 
 #  Links to Support Initiatives
 
@@ -26,7 +26,7 @@ Please select the type of campaign you want to support. Use All to see initiativ
 <a href="#all" class="btn"  style="width:15em">All</a>
 </section>
 
-**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on this *[form](https://forms.gle/6uLcxdyhKToDQoc68)*.
+**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
 ## Daily Wage Workers
 TODO
