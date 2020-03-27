@@ -8,7 +8,7 @@ This is an attempt to collate the several active campaigns that are working to b
 
 #  Links to Support Initiatives
 
-Please select the type of campaign you want to support. Use *All* button to see initiatives for other groups/locations too.
+Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
 <a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block">Daily Wage Workers</a> 
