@@ -115,11 +115,11 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 
 ## Bangalore
-| Organization                       | Beneficiaries | Form of support | City/States |
-| ------------------------------------------------------ | ----------------- | --------------- | 
-| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] |  Waste pickers in Karnataka | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
-| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai |
-| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon |
+| Organization                                                 | Beneficiaries                                                | Form of support           | City/States                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------------ |
+| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#Hasiru-Dala)\] | Waste pickers in Karnataka                                   | Ration Kits               | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad      |
+| SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#SAFA-Society)\] | Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North karnataka, Bangalore, Chennai               |
+| Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#Venkat-Iyer-(Personal-Campaign))\] | Daily wagers, house help etc.                                | Food and Medicines        | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat and Malegaon |
 
 
 
@@ -238,6 +238,8 @@ Hasiru Dala has identified ~1000 vulnerable wastepickers’ families (no BPL/rat
 - Min Payment Accepted: 
 - Payment Modes Available: Direct Bank Account Transfer
 - 80G Eligible: Yes
+
+<br>
 
 
 <hr>
