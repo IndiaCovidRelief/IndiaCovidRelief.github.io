@@ -2,7 +2,7 @@
 
 Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutdown of non-essential businesses left about 460 million Indians (about 94% of our total workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income and their next meal.
 
-Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages, including migrant workers, sex workers and all other underprivileged population groups. **You can help these efforts by way of monetary donation.**
+Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
 
 This is an attempt to collate all possible active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
 
@@ -10,26 +10,28 @@ This is an attempt to collate all possible active campaigns that are working to 
 
 Please select the type of campaign you want to support:
 
-<section  class="page-header">
-<section style="width:100%">
-<a href="#cash" class="btn" style="width:100%">Cash Support</a> 
-<a href="#food" class="btn" style="width:100%">Food Support</a> 
-<a href="#sanitary" class="btn"  style="width:100%">Sanitary Support </a> 
-</section>
+<a href="#cash" class="btn" style="width:15em">Cash Support</a> 
+</br>
+<a href="#food" class="btn" style="width:15em">Food Support</a>
+</br>
+<a href="#sanitary" class="btn" style="width:15em">Sanitary Support</a>
+</br>
 <br>
-<section style="width:100%">
-<a href="#all" class="btn"  style="width:100%">Daily Wage Workers</a> 
-<a href="#all" class="btn"  style="width:100%">Homeless</a> 
-<a href="#all" class="btn"  style="width:100%">Trash Pickers</a>
-</section>
+<a href="#all" class="btn"  style="width:15em">Daily Wage Workers</a> 
+</br>
+<a href="#all" class="btn"  style="width:15em">Homeless</a> 
+</br>
+<a href="#all" class="btn"  style="width:15em">Trash Pickers</a>
+</br>
 <br>
-<section style="width:100%">
-<a href="#all" class="btn"  style="width:100%">Mumbai</a> 
-<a href="#all" class="btn"  style="width:100%">Delhi</a> 
-<a href="#all" class="btn"  style="width:100%">Karnataka</a> 
-</section>
+<a href="#all" class="btn"  style="width:15em">Mumbai</a> 
+</br>
+<a href="#all" class="btn"  style="width:15em">Delhi</a> 
+</br>
+<a href="#all" class="btn"  style="width:15em">Karnataka</a> 
+</br>
 <br>
-<a href="#all" class="btn"  style="width:20em">All</a>
+<a href="#all" class="btn"  style="width:15em">All</a>
 </section>
 
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on this *[form](https://forms.gle/6uLcxdyhKToDQoc68)*.
