@@ -1,6 +1,6 @@
 # India Needs Your Help
 
-Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 460 million Indians (about 94% of our total workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
+Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 460 million Indians (94% of our workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
 
 Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
 
