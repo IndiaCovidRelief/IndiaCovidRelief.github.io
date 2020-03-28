@@ -28,19 +28,19 @@ This is an attempt to collate the several active campaigns that are working to b
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
-<a href="#all-campaigns" class="btn"  style="width:15em;display:inline-block;text-align:center;">All Campaigns</a>
+<a href="#all-campaigns" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">All Campaigns</a>
 <hr>
-<a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block;text-align:center;">Daily Wage Workers</a> 
+<a href="#daily-wage-workers" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Daily Wage Workers</a> 
 <br>
-<a href="#homeless" class="btn"  style="width:15em;display:inline-block;text-align:center;">Homeless</a> 
+<a href="#homeless" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Homeless</a> 
 <br>
-<a href="#trash-pickers" class="btn"  style="width:15em;display:inline-block;text-align:center;">Trash Pickers</a>
+<a href="#trash-pickers" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Trash Pickers</a>
 <hr>
-<a href="#mumbai" class="btn"  style="width:15em;display:inline-block;text-align:center;">Mumbai</a> 
+<a href="#mumbai" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Mumbai</a> 
 <br>
-<a href="#delhi" class="btn"  style="width:15em;display:inline-block;text-align:center;">Delhi</a> 
+<a href="#delhi" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Delhi</a> 
 <br>
-<a href="#bangalore" class="btn"  style="width:15em;display:inline-block;text-align:center;">Bangalore</a> 
+<a href="#bangalore" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Bangalore</a> 
 </section>
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
