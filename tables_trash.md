@@ -20,9 +20,9 @@ table th:nth-of-type(4) {
 
 | Organization                                                 | Beneficiaries | Support Provided                                 | City/States                                             |
 | ------------------------------------------------------------ | ------------- | ------------------------------------------------ | ------------------------------------------------------- |
-| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#paigam)\]</span> | Waste pickers | Safety kit, Minimum income support               | New Delhi                                               |
-| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#hasiru-dala)\]</span> | Waste pickers | Ration Kits                                      | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
-| Kashtakari Panchayat <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19Pune)\] \[[Details](#kashtakari-panchayat)\]</span> | Waste pickers | Personal Protective Equipment (PPE), ration kits | Pune                                                    |
+| Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](index.html#paigam)\]</span> | Waste pickers | Safety kit, Minimum income support               | New Delhi                                               |
+| Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](index.html#hasiru-dala)\]</span> | Waste pickers | Ration Kits                                      | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
+| Kashtakari Panchayat <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19Pune)\] \[[Details](index.html#kashtakari-panchayat)\]</span> | Waste pickers | Personal Protective Equipment (PPE), ration kits | Pune                                                    |
 
 <br>
 <br>
