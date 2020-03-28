@@ -65,6 +65,14 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#making-the-difference)\]</span> |  Underprivileged | Ration kits | Mumbai |
 | Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#help-for-sex-workers-personal-campaign)\]</span> |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai |
 | Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#hasiru-dala)\]</span> |  Waste pickers | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
+| Sangama <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/supportsangama)\] \[[Details](#sangama)\]</span> |  Sex workers, transgenders in Karnataka | Cash, essential food rations | Karnataka |
+| Chhoti Si Aasha <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19reliefCHD)\] \[[Details](#chhoti-si-aasha)\]</span> |  Daily-wage workers | Cash | Chandigarh, Mohali and Panchkula |
+| Meraj Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/MerajFoundation)\] \[[Details](#meraj-foundation)\]</span> |  Differently abled, daily-wage workers, maids, house helps, construction site workers, workers in small units, delivery boys, etc. | Essential items pack | Delhi |
+| Kashtakari Panchayat <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19Pune)\] \[[Details](#kashtakari-panchayat)\]</span> |  Waste pickers | Personal Protective Equipment (PPE), ration kits | Pune |
+| Upay <br><span style='font-size:0.8em'> \[[Go To Page](https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless)\] \[[Details](#upay)\]</span> |  Homeless people | Meals, ration support | Pan India |
+| Mumbai Roti Bank <br><span style='font-size:0.8em'> \[[Go To Page](https://rotibankfoundation.org/)\] \[[Details](#mumbai-roti-bank)\]</span> |  Homeless people | Meals | Mumbai |
+
+
 
 
 ## Daily Wage Workers
@@ -79,6 +87,10 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#venkat-iyer-personal-campaign)\]</span> |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat, and Malegaon |
 | Delhi Youth Welfare Association <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#delhi-youth-welfare-association)\]</span> |  Daily wage workers | Cash | Delhi |
 | YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#yuva)\]</span> |  Daily wage workers | Ration kits | Mumbai |
+| Chhoti Si Aasha <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19reliefCHD)\] \[[Details](#chhoti-si-aasha)\]</span> |  Daily-wage workers | Cash | Chandigarh, Mohali and Panchkula |
+| Meraj Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/MerajFoundation)\] \[[Details](#meraj-foundation)\]</span> |  Differently abled, daily-wage workers, maids, house helps, construction site workers, workers in small units, delivery boys, etc. | Essential items pack | Delhi |
+
+
 
 
 ## Homeless
@@ -88,6 +100,9 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Elixir Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view)\] \[[Details](#elixir-foundation)\]</span> |  Daily wage workers, old age homes, shelters | Groceries and basic necessities | Ahmedabad |
 | SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#safa-society)\] </span> |  Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygeine kits | Hyderabad, North Karnataka, Bangalore, Chennai |
 | Uday Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA)\] \[[Details](#uday-foundation)\]</span> |  Homeless individuals | Food, Sanitizers, Soap | Pan India |
+| Upay <br><span style='font-size:0.8em'> \[[Go To Page](https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless)\] \[[Details](#upay)\]</span> |  Homeless people | Meals, ration support | Pan India |
+| Mumbai Roti Bank <br><span style='font-size:0.8em'> \[[Go To Page](https://rotibankfoundation.org/)\] \[[Details](#mumbai-roti-bank)\]</span> |  Homeless people | Meals | Mumbai |
+
 
 
 ## Trash Pickers
@@ -96,6 +111,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | ------------------------------------------------------ | ----------------- | --------------- | ------------------- |
 | Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#paigam)\]</span> |  Waste pickers | Safety kit, Minimum income support | New Delhi |
 | Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#hasiru-dala)\]</span> | Waste pickers | Ration Kits | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad |
+| Kashtakari Panchayat <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19Pune)\] \[[Details](#kashtakari-panchayat)\]</span> |  Waste pickers | Personal Protective Equipment (PPE), ration kits | Pune |
 
 
 
@@ -106,6 +122,9 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#yuva)\]</span> |  Daily wage workers | Ration kits | Mumbai |
 | Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#making-the-difference)\]</span> |  Underprivileged | Ration kits | Mumbai |
 | Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#help-for-sex-workers-personal-campaign)\]</span> |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai |
+| Mumbai Roti Bank <br><span style='font-size:0.8em'> \[[Go To Page](https://rotibankfoundation.org/)\] \[[Details](#mumbai-roti-bank)\]</span> |  Homeless people | Meals | Mumbai |
+
+
 
 
 ## Delhi
@@ -115,6 +134,9 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Paigam <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view)\] \[[Details](#paigam)\]</span> |  Waste pickers | Safety kit, Minimum income support | New Delhi |
 | Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#venkat-iyer-personal-campaign)\]</span> |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat, and Malegaon |
 | Delhi Youth Welfare Association <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#delhi-youth-welfare-association)\]</span> |  Daily wage workers | Cash | Delhi |
+| Meraj Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/MerajFoundation)\] \[[Details](#meraj-foundation)\]</span> |  Differently abled, daily-wage workers, maids, house helps, construction site workers, workers in small units, delivery boys, etc. | Essential items pack | Delhi |
+
+
 
 
 
@@ -125,6 +147,8 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Hasiru Dala <br><span style='font-size:0.8em'> \[[Go To Page](http://hasirudala.in/news/wastepickers-and-covid19/)\] \[[Details](#hasiru-dala)\]</span> | Waste pickers                                   | Ration Kits               | Bengaluru, Mysuru, Tumakuru, Davanagere, Hubli/Dharawad      |
 | SAFA Society <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/Covid19Relief)\] \[[Details](#safa-society)\] </span> | Daily wage workers, migrants, street children, single parents, beggars | Ration kits, hygiene kits | Hyderabad, North Karnataka, Bangalore, Chennai               |
 | Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#venkat-iyer-personal-campaign)\]</span> | Daily wagers, house help etc.                                | Food and Medicines        | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat ,and Malegaon |
+| Sangama <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/supportsangama)\] \[[Details](#sangama)\]</span> |  Sex workers, transgenders in Karnataka | Cash, essential food rations | Karnataka |
+
 
 
 
@@ -244,9 +268,64 @@ Hasiru Dala has identified ~1000 vulnerable waste pickers’ families (no BPL/ra
 - Payment Modes Available: Direct Bank Account Transfer
 - 80G Eligible: Yes
 
+### [Sangama](https://www.ourdemocracy.in/Campaign/supportsangama)
+Sangama plans to provide 350 family units of sexworkers and 150 transpeople whose livelihoods also depend on begging, with a monthly pakage of Rs 2000,  for the months of April and May 2020. While half of this will be given in cash, the other half will be given as essential food rations for the home
+
+- City/States Covered: Karnataka
+- Min Payment Accepted: NA
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [Chhoti Si Aasha](https://www.ourdemocracy.in/Campaign/Covid19reliefCHD)
+This campaign aims at providing relief to daily-wage workers in Chandigarh, Mohali and Panchkula who are affected by the lockdown.
+
+- City/States Covered: Chandigarh, Mohali and Panchkula
+- Min Payment Accepted: NA
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [Meraj Foundation](https://www.ourdemocracy.in/Campaign/MerajFoundation)
+In regard to the recent COVID-19 LOCKDOWN in Delhi, many people are left stranded without money who are dependent on daily wages.
+
+For these people we at *Meraj Foundation* is planning to distribute Essential Items Pack till 31st March 2020.
+
+
+- City/States Covered: Delhi
+- Min Payment Accepted: NA
+- Payment Modes Available: Google Pay
+- 80G Eligible: No
+
+### [Kashtakari Panchayat](https://www.ourdemocracy.in/Campaign/Covid19Pune)
+While the entire nation is at home during this lockdown due to COVID-19, the waste-pickers of Pune and Pimpri-Chinchwad are still providing waste collection services and maintaining the city's health and hygiene.
+
+Waste-pickers cannot work from home. They collect the city's waste and protect our health. Please help them protect theirs. Contribute now.
+
+- City/States Covered: Pune
+- Min Payment Accepted: NA
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [Upay](https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless)
+We are targeting to support at least 200 meals per day to the homeless people and 15 days ration support to at least 500 families.
+
+Ration support will cost us Rs. 900 per family and each meal would cost Rs. 15. 
+
+- City/States Covered: Pan India
+- Min Payment Accepted: NA
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [Mumbai Roti Bank](https://rotibankfoundation.org/)
+As pavement dwellers and the homeless in the city struggle to arrange food in the present lockdown, Mumbai Police has tied up with Mumbai Roti Bank for providing meals to homeless people in Mumbai.
+
+- City/States Covered: Mumbai
+- Min Payment Accepted: NA
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+
+
 <br>
-
-
 <hr>
 **Disclaimer**: We are not associated with any of the initiatives mentioned on this page. Our objective is to aggregate various support programs and campaigns to hopefully provide them additional visibility, and to provide potential donors with concise information.
 
