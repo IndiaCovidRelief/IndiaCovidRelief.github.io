@@ -277,6 +277,113 @@ Hasiru Dala has identified ~1000 vulnerable wastepickers’ families (no BPL/rat
 - Payment Modes Available: Direct Bank Account Transfer
 - 80G Eligible: Yes
 
+### [Sangama](https://www.ourdemocracy.in/Campaign/supportsangama)
+Sangama plans to provide 350 family units of sexworkers and 150 transpeople whose livelihoods also depend on begging, with a monthly pakage of Rs 2000,  for the months of April and May 2020. While half of this will be given in cash, the other half will be given as essential food rations for the home
+
+- City/States Covered: Karnataka
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [Chhoti Si Aasha](https://www.ourdemocracy.in/Campaign/Covid19reliefCHD)
+This campaign aims at providing relief to daily-wage workers in Chandigarh, Mohali and Panchkula who are affected by the lockdown.
+
+- City/States Covered: Chandigarh, Mohali and Panchkula
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [Meraj Foundation](https://www.ourdemocracy.in/Campaign/MerajFoundation)
+In regard to the recent COVID-19 LOCKDOWN in Delhi, many people are left stranded without money who are dependent on daily wages.
+
+For these people we at *Meraj Foundation* is planning to distribute Essential Items Pack till 31st March 2020.
+
+
+- City/States Covered: Delhi
+- Payment Modes Available: Google Pay
+- 80G Eligible: No
+
+### [Kashtakari Panchayat](https://www.ourdemocracy.in/Campaign/Covid19Pune)
+While the entire nation is at home during this lockdown due to COVID-19, the waste-pickers of Pune and Pimpri-Chinchwad are still providing waste collection services and maintaining the city's health and hygiene.
+
+Waste-pickers cannot work from home. They collect the city's waste and protect our health. Please help them protect theirs. Contribute now.
+
+- City/States Covered: Pune
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [Upay](https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless)
+We are targeting to support at least 200 meals per day to the homeless people and 15 days ration support to at least 500 families.
+
+Ration support will cost us Rs. 900 per family and each meal would cost Rs. 15. 
+
+- City/States Covered: Pan India
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [Mumbai Roti Bank](https://rotibankfoundation.org/)
+As pavement dwellers and the homeless in the city struggle to arrange food in the present lockdown, Mumbai Police has tied up with Mumbai Roti Bank for providing meals to homeless people in Mumbai.
+
+- City/States Covered: Mumbai
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [Cash Relief](http://www.cashrelief.org/covid-relief/)
+We identify people in need and enrol them into the Cashrelief program. We then transfer money into the bank account of oldest working women in the family. Research is conducted to find out what works, what doesn’t and improve our offerings.
+
+- City/States Covered: Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh
+- Payment Modes Available: Direct Bank Transfer
+- 80G Eligible: Yes
+
+### [Maruti Veer Jawan Trust](https://www.instagram.com/marutiveerjawantrust/)
+The trust runs a community kitchen that has been providing meals to 2500 daily wage workers in Surat. But with the lockdown the number of people struggling for food has been increasing steadily, and they need monetary support to keep feeding the less privileged.
+
+- City/States Covered: Surat
+- Payment Modes Available: Direct Bank Transfer
+- 80G Eligible: No
+
+### [Grace Banu](https://milaap.org/fundraisers/trnsgndrrelieftoothukudi)
+Rural transgender persons in Thoothukudi (Tuticorin), Tamil Nadu are heavily dependent on begging as their only source of livelihood.
+We are a collective of transgender people in Thoothukudi (Tuticorin), Tamil Nadu, and are trying to raise funds for at least 150 transgender persons for their basic provisions like food, oil, salt & drinking water so that they can also stay at home this month, and stay safe.
+
+- City/States Covered: Tuticorin
+- Payment Modes Available: Direct Bank Transfer, UPI, Wallets
+- 80G Eligible: No
+
+### [Gurgaon Nagrik Ekta Manch](https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers)
+Gurgaon Nagrik Ekta Manch appeals to you to donate generously and help us provide rations to daily wage workers and their families in Gurgaon.
+
+- City/States Covered: Gurgaon
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [KMC-Ramjas Collective](https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view)
+We are working with a network of local community organizers who have been engaged in providing relief materials in these localities since the outbreak of violence in North East Delhi in February, 2020 and the impending lock-down due to COVID-19.
+
+- City/States Covered: Delhi
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [Urban Company](https://www.urbancompany.com/uc-relief-fund)
+Urban Company (formerly UrbanCIap) is partnering with Srinidhi Foundation (an established charitable trust) to set up a relief fund to provide sustenance support to deserving gig workers and their families over the next few months, till the COVID-19 situation comes back to normalcy.
+
+- City/States Covered: Pan India
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [CanKids KidsCan](https://milaap.org/fundraisers/support-cankids-kidscan-1?community=10177)
+CanKids KidsCan, an NGO working in the space of childhood cancer care is looking to raise funds for sourcing and purchase of higher quality N95 masks, gloves, other protection equipment and sanitizers for children, hospital staff and support teams in hospitals; Providing accommodation alternatives and food supplies; Providing reimbursement for diagnostic tests undertaken locally by patient families
+
+- City/States Covered: Pan India
+- Payment Modes Available: Card, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [India Care Covid](https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE)
+India Care Collective, a COVID-19 relief effort, is a group of citizens with a proven background of social service, who are working together to help families impacted because of wage loss situations arising due to the coronavirus pandemic.
+
+- City/States Covered: Pan India
+- Payment Modes Available: Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+
 
 
 
