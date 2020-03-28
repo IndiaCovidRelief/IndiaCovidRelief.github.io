@@ -71,14 +71,14 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Kashtakari Panchayat <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19Pune)\] \[[Details](#kashtakari-panchayat)\]</span> |  Waste pickers | Personal Protective Equipment (PPE), ration kits | Pune |
 | Upay <br><span style='font-size:0.8em'> \[[Go To Page](https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless)\] \[[Details](#upay)\]</span> |  Homeless people | Meals, ration support | Pan India |
 | Mumbai Roti Bank <br><span style='font-size:0.8em'> \[[Go To Page](https://rotibankfoundation.org/)\] \[[Details](#mumbai-roti-bank)\]</span> |  Homeless people | Meals | Mumbai |
-| Cash Relief <br><span style='font-size:0.8em'> \[[Go To Page](http://www.cashrelief.org/covid-relief/)\] \[[Details](#Cash-Relief)\]</span> |  Daily wage workers, Migrant labourers, Slum dwellers | Cash | Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh | 
-| Maruti Veer Jawan Trust <br><span style='font-size:0.8em'> \[[Go To Page](https://www.instagram.com/marutiveerjawantrust/)\] \[[Details](#Maruti-Veer-Jawan-Trust)\]</span> |  Daily wage workers and their families | Food | Surat | 
-| Grace Banu <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/trnsgndrrelieftoothukudi)\] \[[Details](#Grace-Banu)\]</span> |  Trans persons | Ration kits | Tuticorin | 
-| Gurgaon Nagrik Ekta Manch <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers)\] \[[Details](#Gurgaon-Nagrik-Ekta-Manch)\]</span> |  Daily wage workers | Ration kits, Cash | Gurgaon | 
-| KMC-Ramjas Collective <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view)\] \[[Details](#KMC-Ramjas-Collective)\]</span> |  Daily wage workers, Migrant workers | Food, Ration kits, Safety kits | Delhi | 
-| Urban Company <br><span style='font-size:0.8em'> \[[Go To Page](https://www.urbancompany.com/uc-relief-fund)\] \[[Details](#Urban-Company)\]</span> |  Gig workers and their families | Health insurance | Pan India | 
-| CanKids KidsCan <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-cankids-kidscan-1?community=10177)\] \[[Details](#CanKids-KidsCan)\]</span> |  Children suffering from cancer | Safety equipment, Cash | Pan India | 
-| India Care Covid <br><span style='font-size:0.8em'> \[[Go To Page](https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE)\] \[[Details](#India-Care-Covid)\]</span> |  Daily Wage Workers , Household Workers, | Cash | Pan India | 
+| Cash Relief <br><span style='font-size:0.8em'> \[[Go To Page](http://www.cashrelief.org/covid-relief/)\] \[[Details](#cash-relief)\]</span> |  Daily wage workers, Migrant labourers, Slum dwellers | Cash | Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh | 
+| Maruti Veer Jawan Trust <br><span style='font-size:0.8em'> \[[Go To Page](https://www.instagram.com/marutiveerjawantrust/)\] \[[Details](#maruti-veer-jawan-trust)\]</span> |  Daily wage workers and their families | Food | Surat | 
+| Grace Banu <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/trnsgndrrelieftoothukudi)\] \[[Details](#grace-banu)\]</span> |  Trans persons | Ration kits | Tuticorin | 
+| Gurgaon Nagrik Ekta Manch <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers)\] \[[Details](#gurgaon-nagrik-ekta-manch)\]</span> |  Daily wage workers | Ration kits, Cash | Gurgaon | 
+| KMC-Ramjas Collective <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view)\] \[[Details](#kmc-ramjas-collective)\]</span> |  Daily wage workers, Migrant workers | Food, Ration kits, Safety kits | Delhi | 
+| Urban Company <br><span style='font-size:0.8em'> \[[Go To Page](https://www.urbancompany.com/uc-relief-fund)\] \[[Details](#urban-company)\]</span> |  Gig workers and their families | Health insurance | Pan India | 
+| CanKids KidsCan <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-cankids-kidscan-1?community=10177)\] \[[Details](#cankids-kidscan)\]</span> |  Children suffering from cancer | Safety equipment, Cash | Pan India | 
+| India Care Covid <br><span style='font-size:0.8em'> \[[Go To Page](https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE)\] \[[Details](#india-care-covid)\]</span> |  Daily Wage Workers , Household Workers, | Cash | Pan India | 
 
 
 
@@ -99,11 +99,11 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | YUVA <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action)\] \[[Details](#yuva)\]</span> |  Daily wage workers | Ration kits | Mumbai |
 | Chhoti Si Aasha <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/Covid19reliefCHD)\] \[[Details](#chhoti-si-aasha)\]</span> |  Daily-wage workers | Cash | Chandigarh, Mohali and Panchkula |
 | Meraj Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/MerajFoundation)\] \[[Details](#meraj-foundation)\]</span> |  Differently abled, daily-wage workers, maids, house helps, construction site workers, workers in small units, delivery boys, etc. | Essential items pack | Delhi |
-| Cash Relief <br><span style='font-size:0.8em'> \[[Go To Page](http://www.cashrelief.org/covid-relief/)\] \[[Details](#Cash-Relief)\]</span> |  Daily wage workers, Migrant labourers, Slum dwellers | Cash | Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh | 
-| Maruti Veer Jawan Trust <br><span style='font-size:0.8em'> \[[Go To Page](https://www.instagram.com/marutiveerjawantrust/)\] \[[Details](#Maruti-Veer-Jawan-Trust)\]</span> |  Daily wage workers and their families | Food | Surat | 
-| Gurgaon Nagrik Ekta Manch <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers)\] \[[Details](#Gurgaon-Nagrik-Ekta-Manch)\]</span> |  Daily wage workers | Ration kits, Cash | Gurgaon | 
-| KMC-Ramjas Collective <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view)\] \[[Details](#KMC-Ramjas-Collective)\]</span> |  Daily wage workers, Migrant workers | Food, Ration kits, Safety kits | Delhi | 
-| India Care Covid <br><span style='font-size:0.8em'> \[[Go To Page](https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE)\] \[[Details](#India-Care-Covid)\]</span> |  Daily Wage Workers , Household Workers, | Cash | Pan India | 
+| Cash Relief <br><span style='font-size:0.8em'> \[[Go To Page](http://www.cashrelief.org/covid-relief/)\] \[[Details](#cash-relief)\]</span> |  Daily wage workers, Migrant labourers, Slum dwellers | Cash | Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh | 
+| Maruti Veer Jawan Trust <br><span style='font-size:0.8em'> \[[Go To Page](https://www.instagram.com/marutiveerjawantrust/)\] \[[Details](#maruti-veer-jawan-trust)\]</span> |  Daily wage workers and their families | Food | Surat | 
+| Gurgaon Nagrik Ekta Manch <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers)\] \[[Details](#gurgaon-nagrik-ekta-manch)\]</span> |  Daily wage workers | Ration kits, Cash | Gurgaon | 
+| KMC-Ramjas Collective <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view)\] \[[Details](#kmc-ramjas-collective)\]</span> |  Daily wage workers, Migrant workers | Food, Ration kits, Safety kits | Delhi | 
+| India Care Covid <br><span style='font-size:0.8em'> \[[Go To Page](https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE)\] \[[Details](#india-care-covid)\]</span> |  Daily Wage Workers , Household Workers, | Cash | Pan India | 
 
 
 
@@ -141,7 +141,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Making The Difference <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view)\] \[[Details](#making-the-difference)\]</span> |  Underprivileged | Ration kits | Mumbai |
 | Help for Sex Workers (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form)\] \[[Details](#help-for-sex-workers-personal-campaign)\]</span> |  Sex workers and People in Kamathipura, Mumbai | Groceries and basic necessities | Mumbai |
 | Mumbai Roti Bank <br><span style='font-size:0.8em'> \[[Go To Page](https://rotibankfoundation.org/)\] \[[Details](#mumbai-roti-bank)\]</span> |  Homeless people | Meals | Mumbai |
-| Cash Relief <br><span style='font-size:0.8em'> \[[Go To Page](http://www.cashrelief.org/covid-relief/)\] \[[Details](#Cash-Relief)\]</span> |  Daily wage workers, Migrant labourers, Slum dwellers | Cash | Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh | 
+| Cash Relief <br><span style='font-size:0.8em'> \[[Go To Page](http://www.cashrelief.org/covid-relief/)\] \[[Details](#cash-relief)\]</span> |  Daily wage workers, Migrant labourers, Slum dwellers | Cash | Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh | 
 
 
 
@@ -155,8 +155,8 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 | Venkat Iyer (Personal Campaign) <br><span style='font-size:0.8em'> \[[Go To Page](https://milaap.org/fundraisers/support-venkat-iyer)\] \[[Details](#venkat-iyer-personal-campaign)\]</span> |  Daily wagers, house help etc. | Food and Medicines | Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat, and Malegaon |
 | Delhi Youth Welfare Association <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/covid19Delhi)\] \[[Details](#delhi-youth-welfare-association)\]</span> |  Daily wage workers | Cash | Delhi |
 | Meraj Foundation <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/MerajFoundation)\] \[[Details](#meraj-foundation)\]</span> |  Differently abled, daily-wage workers, maids, house helps, construction site workers, workers in small units, delivery boys, etc. | Essential items pack | Delhi |
-| Gurgaon Nagrik Ekta Manch <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers)\] \[[Details](#Gurgaon-Nagrik-Ekta-Manch)\]</span> |  Daily wage workers | Ration kits, Cash | Gurgaon | 
-| KMC-Ramjas Collective <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view)\] \[[Details](#KMC-Ramjas-Collective)\]</span> |  Daily wage workers, Migrant workers | Food, Ration kits, Safety kits | Delhi | 
+| Gurgaon Nagrik Ekta Manch <br><span style='font-size:0.8em'> \[[Go To Page](https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers)\] \[[Details](#gurgaon-nagrik-ekta-manch)\]</span> |  Daily wage workers | Ration kits, Cash | Gurgaon | 
+| KMC-Ramjas Collective <br><span style='font-size:0.8em'> \[[Go To Page](https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view)\] \[[Details](#kmc-ramjas-collective)\]</span> |  Daily wage workers, Migrant workers | Food, Ration kits, Safety kits | Delhi | 
 
 
 
