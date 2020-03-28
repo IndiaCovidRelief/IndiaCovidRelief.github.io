@@ -24,6 +24,8 @@ Scores of Indians have come together to set up philanthropist initiatives to sup
 
 This is an attempt to collate the several active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
 
+**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
+
 #  Links to Support Initiatives
 
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
@@ -43,7 +45,6 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 <br>
 <a href="#bangalore" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Bangalore</a> 
 </section>
-**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
 
 ## All Campaigns
