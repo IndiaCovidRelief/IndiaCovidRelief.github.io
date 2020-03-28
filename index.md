@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/IndiaCovidRelief/assets/css/style.css">
 
 <style>
 table th:first-of-type {
