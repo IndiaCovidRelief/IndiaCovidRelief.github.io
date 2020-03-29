@@ -15,15 +15,25 @@ table th:nth-of-type(3) {
 table th:nth-of-type(4) {
     width: 20%;
 }
+
+.btn .abtn {
+    background-color:rgba(255,255,255,0.15);
+    border-color:rgba(255,255,255,0.2)
+}
 </style>
 
 <script>
 function filterTable(button_label) {
 	var input_button = document.getElementById(button_label);
 	
-	var is_disabled = input_button.disabled;
+	var is_disabled = input_button.className == 'btn';
 	is_disabled = !is_disabled;
-	input_button.disabled = is_disabled;
+	
+	if (is_disabled){
+		input_button.className = 'btn';
+	} else{
+		input_button.className = 'btn abtn';
+	}
 	
 	var table_row_state = "";
 	if (is_disabled){
@@ -41,19 +51,19 @@ function filterTable(button_label) {
     
     var homeless_ids = [
  		"exilir_row"
-    ]
+    ];
     
     var rows = main_table.getElementsByTagName("tr");
     
     for (i = 0; i < rows.length; i++){
     	var row_id = rows[i].id;
     	
-    	if (button_label=="daily_filter" && daily_ids.include(row_id)){
-    		row[i].style.display = table_row_state;
+    	if (button_label=="daily_filter" && daily_ids.includes(row_id)){
+    		rows[i].style.display = table_row_state;
     	}
         
-        if (button_label=="homeless_filter" && homeless_ids.include(row_id)){
-    		row[i].style.display = table_row_state;
+        if (button_label=="homeless_filter" && homeless_ids.includes(row_id)){
+    		rows[i].style.display = table_row_state;
     	}	
     }
 }
@@ -73,9 +83,12 @@ This is an attempt to collate the several active campaigns that are working to b
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
-<button  class="btn"  id="daily_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(daily_filter)">Daily Wage Workers</button>
-<button  class="btn"  id="homeless_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(homeless_filter)">Homeless</button>
+<button  class="btn"  id="daily_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable('daily_filter')">Daily Wage Workers</button>
+<button  class="btn"  id="homeless_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable('homeless_filter')">Homeless</button>
 </section>
+
+<br>
+<br>
 
 <table id="main_table">
   <thead>
