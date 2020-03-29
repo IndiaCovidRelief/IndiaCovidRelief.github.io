@@ -73,8 +73,8 @@ This is an attempt to collate the several active campaigns that are working to b
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
-<button  class="btn"  id="daily_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(daily_filter)">Daily Wage Workers</a>
-<button  class="btn"  id="homeless_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(homeless_filter)">Homeless</a>
+<button  class="btn"  id="daily_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(daily_filter)">Daily Wage Workers</button>
+<button  class="btn"  id="homeless_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(homeless_filter)">Homeless</button>
 </section>
 
 <table id="main_table">
