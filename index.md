@@ -59,6 +59,8 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 
 </section>
 
+While the citizen-led campaigns need your financial support and encouragement to continue their noble efforts, the central and state governments are also accepting donations for their respective relief funds. A list of all such funds can be found on [this link](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19).
+
 <br>
 <br>
 
@@ -236,7 +238,7 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
     </tr>
     <tr class="wage-workers">
       <td>India Care Covid <br /><span style="font-size:0.8em"> [<a href="https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE">Go To Page</a>] [<a href="#india-care-covid">Details</a>]</span></td>
-      <td>Daily Wage Workers , Household Workers,</td>
+      <td>Daily Wage Workers , Household Workers</td>
       <td>Cash</td>
       <td>Pan India</td>
     </tr>
@@ -548,6 +550,8 @@ function applyFilter() {
       row.style.display = "none";
     }
   }
+  
+  main_table.scrollIntoView();
 }
 
 var filterButtons = document.getElementsByClassName('_location_filter');
