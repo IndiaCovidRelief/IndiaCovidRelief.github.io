@@ -409,7 +409,6 @@ var location_filter = undefined, type_filter = undefined;
 
 function runLocationFilter(e) {
   e.preventDefault();
-  console.log(e.target);
   var btn = e.target;
 
   var filterButtons = document.getElementsByClassName('_location_filter');
@@ -425,7 +424,6 @@ function runLocationFilter(e) {
 
 
   var id = btn.getAttribute('filter');
-  console.log(id);
 
   location_filter = id;
   applyFilter();
@@ -433,7 +431,6 @@ function runLocationFilter(e) {
 
 function runTypeFilter(e) {
   e.preventDefault();
-  console.log(e.target);
   var btn = e.target;
 
   var filterButtons = document.getElementsByClassName('_type_filter');
@@ -448,7 +445,6 @@ function runTypeFilter(e) {
   btn.classList.remove('ibtn');
 
   var id = btn.getAttribute('filter');
-  console.log(id);
 
   type_filter = id;
   applyFilter();
@@ -456,7 +452,6 @@ function runTypeFilter(e) {
 
 function runAllFilter(e) {
   e.preventDefault();
-  console.log(e.target);
   var btn = e.target;
 
   var filterButtons = document.getElementsByClassName('_location_filter');
