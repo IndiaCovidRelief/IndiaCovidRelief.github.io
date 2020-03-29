@@ -243,42 +243,42 @@ While the citizen-led campaigns need your financial support and encouragement to
       <td>Pan India</td>
     </tr>
       
-    <tr class=""  bangalore wage-workers  "">
+   <tr class=""  bangalore wage-workers  "">
      <td>Giweaway Foundation <br /><span style=""font-size:0.8em""> [<a href=""https://pages.razorpay.com/pl_EXJCTralOep9xu/view"">Go To Page</a>] [<a href=""#giweaway-foundation"">Details</a>]</span></td>
      <td>Daily wage workers</td>
      <td>Ration kits</td>
      <td>Tamil Nadu, Karnataka, UP</td>
     </tr>
 
-    <tr class="" delhi  wage-workers  "">
+   <tr class="" delhi  wage-workers  "">
      <td>Young India Fellows <br /><span style=""font-size:0.8em""> [<a href=""https://milaap.org/fundraisers/support-saloni-6?"">Go To Page</a>] [<a href=""#young-india-fellows"">Details</a>]</span></td>
      <td>Daily wage workers</td>
      <td>Ration kits</td>
      <td>Delhi</td>
     </tr>
 
-    <tr class=""     trash-pickers"">
+   <tr class=""     trash-pickers"">
      <td>Centre For Applied Research and Peoples Engagement <br /><span style=""font-size:0.8em""> [<a href=""https://www.ketto.org/fundraiser/support-our-kachra-vechaks-in-the-covid-times?payment=form"">Go To Page</a>] [<a href=""#centre-for-applied-research-and-peoples-engagement"">Details</a>]</span></td>
      <td>Sanitation workers, Waste pickers</td>
      <td>Ration kits, soap</td>
      <td>Aurangabad</td>
     </tr>
 
-    <tr class="" delhi  wage-workers  trash-pickers"">
+   <tr class="" delhi  wage-workers  trash-pickers"">
      <td>Sarvahitey <br /><span style=""font-size:0.8em""> [<a href=""https://www.sarvahitey.org/donate"">Go To Page</a>] [<a href=""#sarvahitey"">Details</a>]</span></td>
      <td>Rag pickers, daily wage workers</td>
      <td>Ration kits, soap, medicines</td>
      <td>Gurgaon</td>
     </tr>
 
-    <tr class=""   wage-workers  "">
+   <tr class=""   wage-workers  "">
      <td>Samarpann <br /><span style=""font-size:0.8em""> [<a href=""https://samarpann.org.in/donation/"">Go To Page</a>] [<a href=""#samarpann"">Details</a>]</span></td>
      <td>Daily wagers</td>
      <td>Ration Kits, Santitation Kits</td>
      <td>Pan India</td>
     </tr>
 
-    <tr class=""mumbai   wage-workers homeless "">
+   <tr class=""mumbai   wage-workers homeless "">
      <td>Drona Foundation <br /><span style=""font-size:0.8em""> [<a href=""https://www.facebook.com/pg/dronafoundation/posts/"">Go To Page</a>] [<a href=""#drona-foundation"">Details</a>]</span></td>
      <td>Daily wage workers, House helps, construction site workers, homeless, sanitation workers</td>
      <td>Ration kits, face masks</td>
