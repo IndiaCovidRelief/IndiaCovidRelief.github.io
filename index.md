@@ -40,7 +40,7 @@ This is an attempt to collate the several active campaigns that are working to b
 
 #  Links to Support Initiatives
 
-Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
+Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All Campaigns** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
 <a class="btn _all_filter abtn" filter="all-campaigns" style="width:15em;display:inline-block;text-align:center;text-decoration:none">All Campaigns</a>
@@ -245,6 +245,7 @@ While the citizen-led campaigns need your financial support and encouragement to
   </tbody>
 </table>
 
+Use the **All Campaigns** button to remove the filters and see all initiatives.
 
 <br>
 <br>
