@@ -62,8 +62,6 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 <br>
 <br>
 
-## All Campaigns
-
 <table id="main-table">
   <thead>
     <tr>
