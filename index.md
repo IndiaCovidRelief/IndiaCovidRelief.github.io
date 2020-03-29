@@ -42,7 +42,7 @@ This is an attempt to collate the several active campaigns that are working to b
 
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All Campaigns** button to see initiatives for all other beneficiaries/areas.
 
-<section  class="page-header" style="margin top:10px 10px">
+<section  class="page-header" style="margin:10px 10px">
 <a class="btn _all_filter abtn" filter="all-campaigns" style="width:15em;display:inline-block;text-align:center;text-decoration:none">All Campaigns</a>
 <hr>
 <a class="btn _location_filter ibtn" filter="mumbai" style="width:15em;display:inline-block;text-align:center;text-decoration:none">Mumbai</a>
