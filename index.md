@@ -16,6 +16,48 @@ table th:nth-of-type(4) {
     width: 20%;
 }
 </style>
+
+<script>
+function filterTable(button_label) {
+	var input_button = document.getElementById(button_label);
+	
+	var is_disabled = input_button.disabled;
+	is_disabled = !is_disabled;
+	input_button.disabled = is_disabled;
+	
+	var table_row_state = "";
+	if (is_disabled){
+		table_row_state = "none";
+	}
+	
+	
+    var main_table = document.getElementById("main_table");
+    
+    var daily_ids = [
+    	"give_india_row",
+    	"zomato_row",
+    	"goonj_row"
+    ];
+    
+    var homeless_ids = [
+ 		"exilir_row"
+    ]
+    
+    var rows = main_table.getElementsByTagName("tr");
+    
+    for (i = 0; i < rows.length; i++){
+    	var row_id = rows[i].id;
+    	
+    	if (button_label=="daily_filter" && daily_ids.include(row_id)){
+    		row[i].style.display = table_row_state;
+    	}
+        
+        if (button_label=="homeless_filter" && homeless_ids.include(row_id)){
+    		row[i].style.display = table_row_state;
+    	}	
+    }
+}
+</script>
 # India Needs Your Help
 
 Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
@@ -31,20 +73,48 @@ This is an attempt to collate the several active campaigns that are working to b
 Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All** button to see initiatives for all other beneficiaries/areas.
 
 <section  class="page-header">
-<a href="tables_all" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">All Campaigns</a>
-<hr>
-<a href="tables_daily" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Daily Wage Workers</a> 
-<br>
-<a href="tables_homeless" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Homeless</a> 
-<br>
-<a href="tables_trash" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Trash Pickers</a>
-<hr>
-<a href="tables_mumbai" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Mumbai</a> 
-<br>
-<a href="tables_delhi" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Delhi</a> 
-<br>
-<a href="tables_bangalore" class="btn"  style="width:15em;display:inline-block;text-align:center;text-decoration:none">Bangalore</a> 
+<button  class="btn"  id="daily_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(daily_filter)">Daily Wage Workers</a>
+<button  class="btn"  id="homeless_filter" style="width:15em;display:inline-block;text-align:center" onClick="filterTable(homeless_filter)">Homeless</a>
 </section>
+
+<table id="main_table">
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th>Beneficiaries</th>
+      <th>Support Provided</th>
+      <th>City/States</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="give_india_row">
+      <td>Give India - Support Families <br /><span style="font-size:0.8em"> [<a href="https://indiafightscorona.giveindia.org/support-families/">Go To Page</a>] [<a href="index.html#give-india---support-families">Details</a>]</span></td>
+      <td>Daily wage workers</td>
+      <td>Cash</td>
+      <td>Pan India</td>
+    </tr>
+    <tr id="zomato_row">
+      <td>Zomato India <br /><span style="font-size:0.8em"> [<a href="https://www.zomato.com/blog/feed-daily-wager">Go To Page</a>] [<a href="index.html#zomato-india">Details</a>]</span></td>
+      <td>Daily wage workers</td>
+      <td>Ration kits</td>
+      <td>Pan India</td>
+    </tr>
+    <tr id="goonj_row">
+      <td>Goonj - Rahat COVID-19 <br /><span style="font-size:0.8em"> [<a href="https://goonj.org/support-covid-19-affected/">Go To Page</a>] [<a href="index.html#goonj---rahat-covid-19">Details</a>]</span></td>
+      <td>Daily wage workers</td>
+      <td>Groceries and basic necessities</td>
+      <td>National</td>
+    </tr>
+    <tr id="elixir_row">
+      <td>Elixir Foundation <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view">Go To Page</a>] [<a href="index.html#elixir-foundation">Details</a>]</span></td>
+      <td>Daily wage workers, old age homes, shelters</td>
+      <td>Groceries and basic necessities</td>
+      <td>Ahmedabad</td>
+    </tr>
+  </tbody>
+</table>
+  
+
 
 
 # Brief details
