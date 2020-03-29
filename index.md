@@ -546,13 +546,13 @@ function applyFilter() {
     if (type_filter && !row.classList.contains(type_filter)) {
       row.style.display = "none";
     }
-    
+
     if (location_filter && !row.classList.contains(location_filter)) {
       row.style.display = "none";
     }
   }
-  
-  main_table.scrollIntoView();
+
+  main_table.scrollIntoView({"behavior": "smooth"});
 }
 
 var filterButtons = document.getElementsByClassName('_location_filter');
