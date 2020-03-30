@@ -129,7 +129,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Pan India</td>
         </tr>
         <tr class=" delhi  wage-workers  ">
-         <td>Delhi Youth Welfare Association <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/covid19Delhi">Go To Page</a>] [<a href="#delhi-youth-welfare-associaltion">Details</a>]</span></td>
+         <td>Delhi Youth Welfare Association <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/covid19Delhi">Go To Page</a>] [<a href="#delhi-youth-welfare-association">Details</a>]</span></td>
          <td>Daily wage workers</td>
          <td>Cash</td>
          <td>Delhi</td>
@@ -385,7 +385,7 @@ Uday foundation is collecting donations to sponsor distribution of sanitization 
 - Payment Modes Available: Cards, Net Banking, Wallets
 - 80G Eligible: Yes
 
-### [Delhi Youth Welfare Associaltion](https://www.ourdemocracy.in/Campaign/covid19Delhi)
+### [Delhi Youth Welfare Association](https://www.ourdemocracy.in/Campaign/covid19Delhi)
 This campaign aims to raise funds for daily wagers who don't have the luxury of working from home and are struggling to survive during the Covid 19 pandemic.
 
 - Cities/States Covered: Delhi
