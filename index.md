@@ -456,7 +456,7 @@ Waste-pickers cannot work from home. They collect the city's waste and protect o
 ### [Upay](https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless)
 We are targeting to support at least 200 meals per day to the homeless people and 15 days ration support to at least 500 families.
 
-Ration support will cost us Rs. 900 per family and each meal would cost Rs. 15. 
+Ration support will cost us Rs. 900 per family and each meal would cost Rs. 15.
 
 - Cities/States Covered: Pan India
 - Payment Modes Available: Cards, Net Banking, UPI, Wallets
@@ -626,13 +626,15 @@ function runLocationFilter(e) {
   document.getElementsByClassName('_all_filter')[0].classList.remove('abtn');
   document.getElementsByClassName('_all_filter')[0].classList.add('ibtn');
 
-  btn.classList.add('abtn');
-  btn.classList.remove('ibtn');
-
-
   var id = btn.getAttribute('filter');
+  if (location_filter === id) {
+    location_filter = undefined;
+  } else {
+    location_filter = id;
+    btn.classList.add('abtn');
+    btn.classList.remove('ibtn');
+  }
 
-  location_filter = id;
   applyFilter();
 }
 
@@ -648,12 +650,14 @@ function runTypeFilter(e) {
   document.getElementsByClassName('_all_filter')[0].classList.remove('abtn');
   document.getElementsByClassName('_all_filter')[0].classList.add('ibtn');
 
-  btn.classList.add('abtn');
-  btn.classList.remove('ibtn');
-
   var id = btn.getAttribute('filter');
-
-  type_filter = id;
+  if (type_filter === id) {
+    type_filter = undefined;
+  } else {
+    type_filter = id;
+    btn.classList.add('abtn');
+    btn.classList.remove('ibtn');
+  }
   applyFilter();
 }
 
