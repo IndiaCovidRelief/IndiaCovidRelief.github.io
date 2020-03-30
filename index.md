@@ -87,7 +87,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Pan India</td>
         </tr>
         <tr class="     ">
-         <td>Kanaga (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-kanaga">Go To Page</a>] [<a href="#kanaga-(personal-campaign)">Details</a>]</span></td>
+         <td>Kanaga (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-kanaga">Go To Page</a>] [<a href="#kanaga-personal-campaign">Details</a>]</span></td>
          <td>Trans persons</td>
          <td>Ration kits</td>
          <td>Chennai</td>
@@ -117,7 +117,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Hyderabad, North Karnataka, Bangalore, Chennai</td>
         </tr>
         <tr class="mumbai delhi  wage-workers  ">
-         <td>Venkat Iyer (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-venkat-iyer">Go To Page</a>] [<a href="#venkat-iyer-(personal-campaign)">Details</a>]</span></td>
+         <td>Venkat Iyer (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-venkat-iyer">Go To Page</a>] [<a href="#venkat-iyer-personal-campaign">Details</a>]</span></td>
          <td>Daily wagers, domestic workers</td>
          <td>Food, medicines</td>
          <td>Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat, Malegaon</td>
@@ -147,7 +147,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Mumbai</td>
         </tr>
         <tr class="mumbai     ">
-         <td>Help for Sex Workers (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form">Go To Page</a>] [<a href="#help-for-sex-workers-(personal-campaign)">Details</a>]</span></td>
+         <td>Help for Sex Workers (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form">Go To Page</a>] [<a href="#help-for-sex-workers-personal-campaign">Details</a>]</span></td>
          <td>Sex workers</td>
          <td>Ration kits</td>
          <td>Mumbai</td>
@@ -158,7 +158,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Ration kits</td>
          <td>Bangalore, Mysuru, Tumakuru, Davanagere, Hubli, Dharawad</td>
         </tr>
-        <tr class="     ">
+        <tr class="  bangalore   ">
          <td>Sangama <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/supportsangama">Go To Page</a>] [<a href="#sangama">Details</a>]</span></td>
          <td>Sex workers, trans persons</td>
          <td>Ration kits, cash</td>
@@ -224,7 +224,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Ration kits, food, safety kits</td>
          <td>Delhi</td>
         </tr>
-        <tr class="     ">
+        <tr class=" wage-workers ">
          <td>Urban Company <br /><span style="font-size:0.8em"> [<a href="https://www.urbancompany.com/uc-relief-fund">Go To Page</a>] [<a href="#urban-company">Details</a>]</span></td>
          <td>Gig workers</td>
          <td>Health insurance</td>
@@ -285,7 +285,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Nagpur</td>
         </tr>
         <tr class="   wage-workers  ">
-         <td>Richa Malik (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/daily-wage-workers-and-artisans-in-up-need-food-and-basic-essentials?payment=form">Go To Page</a>] [<a href="#richa-malik-(personal-campaign)">Details</a>]</span></td>
+         <td>Richa Malik (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/daily-wage-workers-and-artisans-in-up-need-food-and-basic-essentials?payment=form">Go To Page</a>] [<a href="#richa-malik-personal-campaign">Details</a>]</span></td>
          <td>Daily wage workers</td>
          <td>Ration kits, soap</td>
          <td>Uttar Pradesh</td>
