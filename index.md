@@ -129,7 +129,7 @@ While the citizen-led campaigns need your financial support and encouragement to
          <td>Pan India</td>
         </tr>
         <tr class=" delhi  wage-workers  ">
-         <td>Delhi Youth Welfare Associaltion <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/covid19Delhi">Go To Page</a>] [<a href="#delhi-youth-welfare-associaltion">Details</a>]</span></td>
+         <td>Delhi Youth Welfare Association <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/covid19Delhi">Go To Page</a>] [<a href="#delhi-youth-welfare-associaltion">Details</a>]</span></td>
          <td>Daily wage workers</td>
          <td>Cash</td>
          <td>Delhi</td>
