@@ -2,6 +2,32 @@
 layout: default
 ---
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NNJLRQW');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNJLRQW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+/**
+* Function that captures a click on an outbound link in Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+* using 'navigator.sendBeacon' in browser that support it.
+*/
+var captureOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+}
+</script>
+
 <style>
 table th:first-of-type {
     width: 40%;
@@ -734,5 +760,21 @@ typeFilter.onchange = runTypeFilter;
 
 resetFilterButton = document.getElementById('_reset_filter');
 resetFilterButton.onclick = runAllFilter;
+
+function domain(url) {
+    return url.replace('http://','').replace('https://','').split('/')[0];
+}
+
+function isExternalLink (url) {
+  return domain(location.href) !== domain(url);
+}
+
+var links = document.getElementsByTagName('a');
+for (link of links) {
+  var href = link.getAttribute('href');
+  if (href && isExternalLink(href) && href.indexOf('#') !== 0) {
+    link.setAttribute('onclick', "captureOutboundLink('" + href + "'); return false;");
+  }
+}
 
 </script>
