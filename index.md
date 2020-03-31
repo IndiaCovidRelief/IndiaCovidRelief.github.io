@@ -22,8 +22,52 @@ table th:nth-of-type(4) {
 }
 
 .btn.ibtn {
-    background-color:rgba(255,255,255,0.02);
+    background-color:rgba(255,255,255,0.1);
     border-color:rgba(255,255,255,0.2)
+}
+
+.form-group {
+  margin-bottom: 5%;
+}
+
+.dropdown {
+    display: inline;
+    width: 40%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.7);
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-right: 5%;
+    background-color: rgba(255,255,255,0.15);
+}
+
+.dropdown option {
+  background-color: rgba(255,255,255,0.15);
+  color: #606c71;
+}
+
+._reset_filter {
+  margin-top: 5%;
+  margin-bottom: 0%;
+  cursor:pointer;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.9rem;
+}
+
+@media screen and (max-width: 480px) {
+     .dropdown {
+        display: block;
+        width: 95%;
+        margin-bottom: 10%;
+     }
+
+     .form-group {
+      margin-left: 5%;
+     }
 }
 
 </style>
@@ -40,24 +84,30 @@ This is an attempt to collate the several active campaigns that are working to b
 
 #  Links to Support Initiatives
 
-Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **All Campaigns** button to see initiatives for all other beneficiaries/areas.
+Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **Reset All Filters** button to see initiatives for all other beneficiaries/areas.
 
-<section  class="page-header" style="margin:10px 10px">
-<a class="btn _all_filter abtn" filter="all-campaigns" style="width:15em;display:inline-block;text-align:center;text-decoration:none">All Campaigns</a>
+<section  class="page-header">
+
+<div class="form-group">
+  <select class="form-control dropdown" id="_location_filter" filter="location">
+      <option selected value="all">-- All Locations --</option>
+      <option value="mumbai">Mumbai</option>
+      <option value="delhi">Delhi</option>
+      <option value="bangalore">Bangalore</option>
+    </select>
+  <select class="form-control dropdown" id="_type_filter" filter="type">
+      <option selected value="all">-- All Beneficiaries --</option>
+      <option value="wage-workers">Daily Wager</option>
+      <option value="homeless">Homeless</option>
+      <option value="trash-pickers">Trash Pickers</option>
+  </select>
+</div>
+
 <hr>
-<a class="btn _location_filter ibtn" filter="mumbai" style="width:15em;display:inline-block;text-align:center;text-decoration:none">Mumbai</a>
-<br>
-<a class="btn _location_filter ibtn" filter="delhi" style="width:15em;display:inline-block;text-align:center;text-decoration:none">Delhi</a>
-<br>
-<a class="btn _location_filter ibtn" filter="bangalore" style="width:15em;display:inline-block;text-align:center;text-decoration:none">Bangalore</a>
-<hr>
-<a class="btn _type_filter ibtn" filter="wage-workers" style="width:15em;display:inline-block;text-align:center;text-decoration:none">Daily Wager</a>
-<br>
-<a class="btn _type_filter ibtn" filter="homeless" style="width:15em;display:inline-block;text-align:center;text-decoration:none">Homeless</a>
-<br>
-<a class="btn _type_filter ibtn" filter="trash-pickers" style="width:15em;display:inline-block;text-align:center;text-decoration:none">Trash Pickers</a>
+<a class="btn _reset_filter ibtn" filter="all-campaigns" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_reset_filter">Reset all filters</a>
 
 </section>
+
 
 While the citizen-led campaigns need your financial support and encouragement to continue their noble efforts, the central and state governments are also accepting donations for their respective relief funds. A list of all such funds can be found on [this link](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19).
 
@@ -456,7 +506,7 @@ Waste-pickers cannot work from home. They collect the city's waste and protect o
 ### [Upay](https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless)
 We are targeting to support at least 200 meals per day to the homeless people and 15 days ration support to at least 500 families.
 
-Ration support will cost us Rs. 900 per family and each meal would cost Rs. 15. 
+Ration support will cost us Rs. 900 per family and each meal would cost Rs. 15.
 
 - Cities/States Covered: Pan India
 - Payment Modes Available: Cards, Net Banking, UPI, Wallets
@@ -615,45 +665,28 @@ Milaan Foundation along with its 12 grassroots partners are starting the "COVID 
 var location_filter = undefined, type_filter = undefined;
 
 function runLocationFilter(e) {
-  e.preventDefault();
-  var btn = e.target;
+  var select = e.target;
 
-  var filterButtons = document.getElementsByClassName('_location_filter');
-  for (let filterBtn of filterButtons) {
-    filterBtn.classList.remove('abtn');
-    filterBtn.classList.add('ibtn');
-  };
-  document.getElementsByClassName('_all_filter')[0].classList.remove('abtn');
-  document.getElementsByClassName('_all_filter')[0].classList.add('ibtn');
+  var value = select.value;
+  if (location_filter === value || value === "all") {
+    location_filter = undefined;
+  } else {
+    location_filter = value;
+  }
 
-  btn.classList.add('abtn');
-  btn.classList.remove('ibtn');
-
-
-  var id = btn.getAttribute('filter');
-
-  location_filter = id;
   applyFilter();
 }
 
 function runTypeFilter(e) {
-  e.preventDefault();
-  var btn = e.target;
+  var select = e.target;
 
-  var filterButtons = document.getElementsByClassName('_type_filter');
-  for (let filterBtn of filterButtons) {
-    filterBtn.classList.remove('abtn');
-    filterBtn.classList.add('ibtn');
-  };
-  document.getElementsByClassName('_all_filter')[0].classList.remove('abtn');
-  document.getElementsByClassName('_all_filter')[0].classList.add('ibtn');
+  var value = select.value;
+  if (type_filter === value || value === "all") {
+    type_filter = undefined;
+  } else {
+    type_filter = value;
+  }
 
-  btn.classList.add('abtn');
-  btn.classList.remove('ibtn');
-
-  var id = btn.getAttribute('filter');
-
-  type_filter = id;
   applyFilter();
 }
 
@@ -661,22 +694,15 @@ function runAllFilter(e) {
   e.preventDefault();
   var btn = e.target;
 
-  var filterButtons = document.getElementsByClassName('_location_filter');
-  for (let filterBtn of filterButtons) {
-    filterBtn.classList.remove('abtn');
-    filterBtn.classList.add('ibtn');
-  };
-  var filterButtons = document.getElementsByClassName('_type_filter');
-  for (let filterBtn of filterButtons) {
-    filterBtn.classList.remove('abtn');
-    filterBtn.classList.add('ibtn');
-  };
-
-  btn.classList.add('abtn');
-  btn.classList.remove('ibtn');
-
   type_filter = undefined;
   location_filter = undefined;
+
+  var typeFilter = document.getElementById('_type_filter');
+  typeFilter.selectedIndex = 0;
+
+  var locationFilter = document.getElementById('_location_filter');
+  locationFilter.selectedIndex = 0;
+
   applyFilter();
 }
 
@@ -700,19 +726,13 @@ function applyFilter() {
   main_table.scrollIntoView({"behavior": "smooth"});
 }
 
-var filterButtons = document.getElementsByClassName('_location_filter');
-for (let filterBtn of filterButtons) {
-  filterBtn.onclick = runLocationFilter;
-};
+var locationFilter = document.getElementById('_location_filter');
+locationFilter.onchange = runLocationFilter;
 
-var filterButtons = document.getElementsByClassName('_type_filter');
-for (let filterBtn of filterButtons) {
-  filterBtn.onclick = runTypeFilter;
-};
+var typeFilter = document.getElementById('_type_filter');
+typeFilter.onchange = runTypeFilter;
 
-var filterButtons = document.getElementsByClassName('_all_filter');
-for (let filterBtn of filterButtons) {
-  filterBtn.onclick = runAllFilter;
-};
+resetFilterButton = document.getElementById('_reset_filter');
+resetFilterButton.onclick = runAllFilter;
 
 </script>
