@@ -99,12 +99,16 @@ table th:nth-of-type(4) {
 </style>
 
 # India Needs Your Help
+<details>
+  <summary>Click to expand!</summary>
 
 Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
 
 Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
 
 This is an attempt to collate the several active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
+</details>
+
 
 **Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 
@@ -743,7 +747,7 @@ function applyFilter() {
     if (type_filter && !row.classList.contains(type_filter)) {
       row.style.display = "none";
     }
-
+    
     if (location_filter && !row.classList.contains(location_filter)) {
       row.style.display = "none";
     }
