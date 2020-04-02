@@ -84,6 +84,31 @@ table th:nth-of-type(4) {
   font-size: 0.9rem;
 }
 
+.page-em {
+	color: #fff;
+	text-align: center;
+	background-color: #159957;
+	background-image: linear-gradient(120deg, #155799, #159957)
+}
+
+@media screen and (min-width: 64em) {	
+	.page-em {
+		padding: 3rem 4rem
+	}
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+	.page-em {
+		padding: 2rem 1rem
+	}
+}
+
+@media screen and (max-width: 42em) {
+	.page-em {
+		padding: 1rem 0.5rem
+	}
+}
+
 @media screen and (max-width: 480px) {
      .dropdown {
         display: block;
@@ -98,26 +123,7 @@ table th:nth-of-type(4) {
 
 </style>
 
-# India Needs Your Help
-<details>
-  <summary>Click to expand!</summary>
-
-Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
-
-Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
-
-This is an attempt to collate the several active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
-</details>
-
-
-**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
-
-#  Links to Support Initiatives
-
-Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **Reset All Filters** button to see initiatives for all other beneficiaries/areas.
-
-<section  class="page-header">
-
+<section  id="table-filter" class="page-em">
 <div class="form-group">
   <select class="form-control dropdown" id="_location_filter" filter="location">
       <option selected value="all">-- All Locations --</option>
@@ -134,15 +140,30 @@ Please select the beneficiaries/areas to display lists of relevant campaigns. Us
 </div>
 
 <hr>
-<a class="btn _reset_filter ibtn" filter="all-campaigns" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_reset_filter">Reset all filters</a>
-
+<a class="btn _reset_filter ibtn" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_view_table">View Campaigns</a>
+<a class="btn _reset_filter ibtn" filter="all-campaigns" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_reset_filter">Reset Filters</a>
 </section>
 
 
-While the citizen-led campaigns need your financial support and encouragement to continue their noble efforts, the central and state governments are also accepting donations for their respective relief funds. A list of all such funds can be found on [this link](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19).
+<details>
+  <summary>India Needs Your Help (Read more)!</summary>
 
-<br>
-<br>
+Following WHO's declaration of COVID-19 as a <a href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020">global pandemic</a>, India instituted a 3-week long <a href="https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655">national lockdown</a>. The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the <a href="http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf">unorganised sector</a> uncertain of their income, and in most cases, their next meal.
+
+Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
+
+This is an attempt to collate the several active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
+</details>
+
+
+#  Links to Support Initiatives
+
+
+
+
+<section  class="page-em">
+<a class="btn _reset_filter ibtn" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_view_filter">View Filters</a>
+</section>
 
 <table id="main-table">
   <thead>
@@ -395,6 +416,10 @@ While the citizen-led campaigns need your financial support and encouragement to
 </table>
 
 Use the **All Campaigns** button to remove the filters and see all initiatives.
+
+**Note**: 
+- This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
+- While the citizen-led campaigns need your financial support and encouragement to continue their noble efforts, the central and state governments are also accepting donations for their respective relief funds. A list of all such funds can be found on [this link](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19).
 
 <br>
 <br>
@@ -736,6 +761,16 @@ function runAllFilter(e) {
   applyFilter();
 }
 
+function scrollToTable(){
+  var ui_elem = document.getElementById("main-table");
+  ui_elem.scrollIntoView({"behavior": "smooth"});
+}
+
+function scrollToFilter(){
+  var ui_elem = document.getElementById("table-filter");
+  ui_elem.scrollIntoView({"behavior": "smooth"});
+}
+
 function applyFilter() {
   var main_table = document.getElementById("main-table");
   var table_body = main_table.getElementsByTagName("tbody")[0];
@@ -752,8 +787,6 @@ function applyFilter() {
       row.style.display = "none";
     }
   }
-
-  main_table.scrollIntoView({"behavior": "smooth"});
 }
 
 var locationFilter = document.getElementById('_location_filter');
@@ -764,6 +797,12 @@ typeFilter.onchange = runTypeFilter;
 
 resetFilterButton = document.getElementById('_reset_filter');
 resetFilterButton.onclick = runAllFilter;
+
+viewTableButton = document.getElementById('_view_table');
+viewTableButton.onclick=scrollToTable;
+
+viewFilterButton = document.getElementById('_view_filter');
+viewFilterButton.onclick=scrollToFilter;;
 
 function domain(url) {
     return url.replace('http://','').replace('https://','').split('/')[0];
