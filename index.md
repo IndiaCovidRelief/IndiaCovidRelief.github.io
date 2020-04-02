@@ -628,6 +628,10 @@ background-color: #FF6600
   </tbody>
 </table>
 
+<section class='page-em' style="padding:0.5em;margin-top:5%;padding:5%">
+<a class="btn _reset_filter ibtn" style="display:inline-block;text-align:center;text-decoration:none" id="_view_filter">View Filters</a>
+</section>
+
 <section class='page-em share-links' style="padding-top:2.5%">
 
   <!-- Sharingbutton Facebook -->
