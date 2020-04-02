@@ -132,7 +132,8 @@ table th:nth-of-type(4) {
       <option value="delhi">Delhi</option>
       <option value="bangalore">Bangalore</option>
       <option value="other-loc">Other Locations</option>
-    </select>
+  </select>
+  <br>
   <select class="form-control dropdown" id="_people_filter" filter="people">
       <option selected value="all">-- All Beneficiaries --</option>
       <option value="wage-workers">Daily Wager</option>
@@ -142,6 +143,7 @@ table th:nth-of-type(4) {
       <option value="domestic-workers">Domestic Workers</option>
       <option value="other-ben">Other Beneficiaries</option>
   </select>
+  <br>
   <select class="form-control dropdown" id="_helptype_filter" filter="helptype">
       <option selected value="all">-- All Type --</option>
       <option value="cash">Cash</option>
