@@ -324,7 +324,7 @@ background-color: #FF6600
   <br>
   <select class="form-control dropdown" id="_people_filter" filter="people">
       <option selected value="all">-- All Beneficiaries --</option>
-      <option value="wage-workers">Daily Wager</option>
+      <option value="wage-workers">Daily Wage Workers</option>
       <option value="homeless">Homeless</option>
       <option value="trash-pickers">Trash Pickers</option>
       <option value="migrant-workers">Migrant Workers</option>
@@ -354,7 +354,7 @@ background-color: #FF6600
       <th>Organization</th>
       <th>Beneficiaries</th>
       <th>Support Provided</th>
-      <th>City/States</th>
+      <th>Cities/States</th>
     </tr>
   </thead>
   <tbody>
@@ -595,12 +595,38 @@ background-color: #FF6600
          <td>Cash</td>
          <td>Uttar Pradesh</td>
         </tr>
+        <tr class="     ">
+         <td>Sarvodaya Mitra Mandali + Bizongo <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-public-hospitals-across-india">Go To Page</a>] [<a href="#sarvodaya-mitra-mandali--bizongo">Details</a>]</span></td>
+         <td>Health care workers</td>
+         <td>Personal Protective Equipment (PPE)</td>
+         <td>Pan India</td>
+        </tr>
+        <tr class="     ">
+         <td>PharmEasy <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/COVID-19-Mask-2">Go To Page</a>] [<a href="#pharmeasy">Details</a>]</span></td>
+         <td>Health care workers</td>
+         <td>Personal Protective Equipment (PPE)</td>
+         <td>Pan India</td>
+        </tr>
+        <tr class="mumbai delhi  wage-workers  ">
+         <td>WeMakeIt <br /><span style="font-size:0.8em"> [<a href="https://wemakeit.com/projects/fight-hunger-fight-corona">Go To Page</a>] [<a href="#wemakeit">Details</a>]</span></td>
+         <td>Daily wage workers</td>
+         <td>Cash, ration kits, sanitation kits</td>
+         <td>Aurangabad, Cochin, Chennai, Delhi, Trichur, Mumbai</td>
+        </tr>
+        <tr class=" delhi  wage-workers  ">
+         <td>Nanhi Kashtiyan  <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EYQWEDmOg1nbzL/view">Go To Page</a>] [<a href="#nanhi-kashtiyan-">Details</a>]</span></td>
+         <td>Daily wagers, domestic workers</td>
+         <td>Ration kits, food, medicines</td>
+         <td>Delhi</td>
+        </tr>
+        <tr class=" delhi   homeless ">
+         <td>Karwan e Mohabbat <br /><span style="font-size:0.8em"> [<a href="https://covid19-afpi.ketto.org/fundraiser/help-labourers-and-migrants-in-delhi">Go To Page</a>] [<a href="#karwan-e-mohabbat">Details</a>]</span></td>
+         <td>Homeless persons</td>
+         <td>Ration kits, food</td>
+         <td>Delhi, Patna</td>
+        </tr>
   </tbody>
 </table>
-
-<section class='page-em' style="padding:0.5em;margin-top:5%;padding:5%">
-<a class="btn _reset_filter ibtn" style="display:inline-block;text-align:center;text-decoration:none" id="_view_filter">View Filters</a>
-</section>
 
 <section class='page-em share-links' style="padding-top:2.5%">
 
@@ -940,6 +966,47 @@ Milaan Foundation along with its 12 grassroots partners are starting the "COVID 
 - Cities/States Covered: Uttar Pradesh
 - Payment Modes Available: Cards, Direct Bank Transfer, Net Banking, UPI, Wallets
 - 80G Eligible: Yes
+
+### [Sarvodaya Mitra Mandali + Bizongo](https://milaap.org/fundraisers/support-public-hospitals-across-india)
+Hence Sarvodaya Mitra Mandali, an organization to achieve 'Sarvodaya', i.e. upliftment of everyone, has partnered with Bizongo, auto-replenishment platform for packaging goods.
+The partnership is to supply essential personal protective items like masks, head cover, eye goggles, coverall suits, face masks to our healthcare workers who are fighting the COVID-19 pandemic at the frontline.
+
+- Cities/States Covered: Pan India
+- Payment Modes Available: UPI, Wallets
+- 80G Eligible: Yes
+
+### [PharmEasy](https://pages.razorpay.com/COVID-19-Mask-2)
+Gift A Mask!
+The Doctors, Nurses & Hospital Staff are relentlessly working round the clock on the frontline against the COVID-19 outbreak. 
+Let ensure their safety! Gift them an N95 mask/s & PharmEasy shall pledge one for every mask you gift!
+We salute their amazing spirit & their resolve!
+
+- Cities/States Covered: Pan India
+- Payment Modes Available: Cards, UPI
+- 80G Eligible: No
+
+### [WeMakeIt](https://wemakeit.com/projects/fight-hunger-fight-corona)
+We are raising money outside India for the daily wage workers in India, through a bottom-up campaign, promoting volunteers across India to help their closest community. Motivation is that the cost of pizza delivery in most of the developed nations can save many lives in India for the lockdown time. 
+
+- Cities/States Covered: Aurangabad, Cochin, Chennai, Delhi, Trichur, Mumbai
+- Payment Modes Available: Cards, Direct Bank Transfer, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [Nanhi Kashtiyan ](https://pages.razorpay.com/pl_EYQWEDmOg1nbzL/view)
+As the Novel Corona Virus Pandemic cases rise in India, people have been forced to remain indoors. The nationwide lockdown has crumbled daily wage workers as they have nothing to do to earn their bread. They will be saved from corona but will die from hunger.
+
+- Cities/States Covered: Delhi
+- Payment Modes Available: Cards, Direct Bank Transfer, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [Karwan e Mohabbat](https://covid19-afpi.ketto.org/fundraiser/help-labourers-and-migrants-in-delhi)
+We want to provide at least two nutritious meals roughly to 5,000 people a day and 1000 families with dry ration in Delhi. And similarly, we want to provide the same if we can raise the resources and volunteers in Patna. While some of these will be distributed in places such as labour chowks and areas where homeless persons congregate; our team will also target single rough sleepers who are scattered across the city.
+
+- Cities/States Covered: Delhi, Patna
+- Payment Modes Available: Cards, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+
 
 
 
