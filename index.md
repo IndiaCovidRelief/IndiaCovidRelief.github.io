@@ -57,18 +57,18 @@ table th:nth-of-type(4) {
 }
 
 .dropdown {
-    display: inline;
-    width: 40%;
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    line-height: 1.5;
-    color: rgba(255, 255, 255, 0.7);
-    background-clip: padding-box;
-    border: 1px solid #ced4da;
-    border-radius: .25rem;
-    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    margin-right: 5%;
-    background-color: rgba(255,255,255,0.15);
+  padding: 1%;
+  margin: 1.5%;
+  display: inline;
+  width: 40%;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.7);
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  background-color: rgba(255,255,255,0.15);
 }
 
 .dropdown option {
@@ -77,18 +77,50 @@ table th:nth-of-type(4) {
 }
 
 ._reset_filter {
-  margin-top: 5%;
+  margin-top: 3%;
   margin-bottom: 0%;
-  cursor:pointer;
+  cursor: pointer;
   padding: 0.4rem 0.8rem;
   font-size: 0.9rem;
+  width: 40%;
+}
+
+.page-em {
+	color: #fff;
+	text-align: center;
+	background-color: #159957;
+	background-image: linear-gradient(120deg, #155799, #159957)
+}
+
+.share-links {
+  margin: 0px;
+  background: none;
+  margin-top: 1%;
+  padding: 1%;
+}
+
+@media screen and (min-width: 64em) {
+	.page-em {
+		padding: 3rem 4rem
+	}
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+	.page-em {
+		padding: 2rem 1rem
+	}
+}
+
+@media screen and (max-width: 42em) {
+	.page-em {
+		padding: 1rem 0.5rem
+	}
 }
 
 @media screen and (max-width: 480px) {
      .dropdown {
         display: block;
         width: 95%;
-        margin-bottom: 10%;
      }
 
      .form-group {
@@ -96,50 +128,271 @@ table th:nth-of-type(4) {
      }
 }
 
+.resp-sharing-button__link,
+.resp-sharing-button__icon {
+  display: inline-block
+}
+
+.resp-sharing-button__link {
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em
+}
+
+.resp-sharing-button {
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif
+}
+
+.resp-sharing-button__icon svg {
+  width: 1em;
+  height: 1em;
+  margin-right: 0.4em;
+  vertical-align: top
+}
+
+.resp-sharing-button--small svg {
+  margin: 0;
+  vertical-align: middle
+}
+
+/* Non solid icons get a stroke */
+.resp-sharing-button__icon {
+  stroke: #fff;
+  fill: none
+}
+
+/* Solid icons get a fill */
+.resp-sharing-button__icon--solid,
+.resp-sharing-button__icon--solidcircle {
+  fill: #fff;
+  stroke: none
+}
+
+.resp-sharing-button--twitter {
+  background-color: #55acee
+}
+
+.resp-sharing-button--twitter:hover {
+  background-color: #2795e9
+}
+
+.resp-sharing-button--pinterest {
+  background-color: #bd081c
+}
+
+.resp-sharing-button--pinterest:hover {
+  background-color: #8c0615
+}
+
+.resp-sharing-button--facebook {
+  background-color: #3b5998
+}
+
+.resp-sharing-button--facebook:hover {
+  background-color: #2d4373
+}
+
+.resp-sharing-button--tumblr {
+  background-color: #35465C
+}
+
+.resp-sharing-button--tumblr:hover {
+  background-color: #222d3c
+}
+
+.resp-sharing-button--reddit {
+  background-color: #5f99cf
+}
+
+.resp-sharing-button--reddit:hover {
+  background-color: #3a80c1
+}
+
+.resp-sharing-button--google {
+  background-color: #dd4b39
+}
+
+.resp-sharing-button--google:hover {
+  background-color: #c23321
+}
+
+.resp-sharing-button--linkedin {
+  background-color: #0077b5
+}
+
+.resp-sharing-button--linkedin:hover {
+  background-color: #046293
+}
+
+.resp-sharing-button--email {
+  background-color: #777
+}
+
+.resp-sharing-button--email:hover {
+  background-color: #5e5e5e
+}
+
+.resp-sharing-button--xing {
+  background-color: #1a7576
+}
+
+.resp-sharing-button--xing:hover {
+  background-color: #114c4c
+}
+
+.resp-sharing-button--whatsapp {
+  background-color: #25D366
+}
+
+.resp-sharing-button--whatsapp:hover {
+  background-color: #1da851
+}
+
+.resp-sharing-button--hackernews {
+background-color: #FF6600
+}
+.resp-sharing-button--hackernews:hover, .resp-sharing-button--hackernews:focus {   background-color: #FB6200 }
+
+.resp-sharing-button--vk {
+  background-color: #507299
+}
+
+.resp-sharing-button--vk:hover {
+  background-color: #43648c
+}
+
+.resp-sharing-button--facebook {
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.resp-sharing-button--facebook:hover,
+.resp-sharing-button--facebook:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.resp-sharing-button--twitter {
+  background-color: #55acee;
+  border-color: #55acee;
+}
+
+.resp-sharing-button--twitter:hover,
+.resp-sharing-button--twitter:active {
+  background-color: #2795e9;
+  border-color: #2795e9;
+}
+
+.resp-sharing-button--linkedin {
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.resp-sharing-button--linkedin:hover,
+.resp-sharing-button--linkedin:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.resp-sharing-button--whatsapp {
+  background-color: #25D366;
+  border-color: #25D366;
+}
+
+.resp-sharing-button--whatsapp:hover,
+.resp-sharing-button--whatsapp:active {
+  background-color: #1DA851;
+  border-color: #1DA851;
+}
+
+
+
 </style>
 
-# India Needs Your Help
+<section class='page-em share-links' style="padding-top:0.1%">
 
-Following WHO's declaration of COVID-19 as a [global pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), India instituted a 3-week long [national lockdown](https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655). The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the [unorganised sector](http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf) uncertain of their income, and in most cases, their next meal.
+  <!-- Sharingbutton Facebook -->
+  <a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Findiacovidrelief.github.io%2F" target="_blank" rel="noopener" aria-label="">
+    <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"/></svg>
+      </div>
+    </div>
+  </a>
 
-Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
+  <!-- Sharingbutton Twitter -->
+  <a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=COVID-19%20Relief%20Efforts%20in%20India.%20A%20list%20of%20initiatives%20to%20support%20vulnerable%20groups%20during%20the%20COVID-19%20pandemic%20and%20national%20lockdown.&amp;url=https%3A%2F%2Findiacovidrelief.github.io%2F" target="_blank" rel="noopener" aria-label="">
+    <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5 0-4.55 2.04-4.55 4.54 0 .36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3 0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35 0 12.92-6.92 12.92-12.93 0-.2 0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z"/></svg>
+      </div>
+    </div>
+  </a>
 
-This is an attempt to collate the several active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
+  <!-- Sharingbutton E-Mail -->
+  <a class="resp-sharing-button__link" href="mailto:?subject=COVID-19%20Relief%20Efforts%20in%20India.%20A%20list%20of%20initiatives%20to%20support%20vulnerable%20groups%20during%20the%20COVID-19%20pandemic%20and%20national%20lockdown.&amp;body=https%3A%2F%2Findiacovidrelief.github.io%2F" target="_self" rel="noopener" aria-label="">
+    <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"/></svg>
+      </div>
+    </div>
+  </a>
 
-**Note**: This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
+  <!-- Sharingbutton LinkedIn -->
+  <a class="resp-sharing-button__link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Findiacovidrelief.github.io%2F&amp;title=COVID-19%20Relief%20Efforts%20in%20India.%20A%20list%20of%20initiatives%20to%20support%20vulnerable%20groups%20during%20the%20COVID-19%20pandemic%20and%20national%20lockdown.&amp;summary=COVID-19%20Relief%20Efforts%20in%20India.%20A%20list%20of%20initiatives%20to%20support%20vulnerable%20groups%20during%20the%20COVID-19%20pandemic%20and%20national%20lockdown.&amp;source=https%3A%2F%2Findiacovidrelief.github.io%2F" target="_blank" rel="noopener" aria-label="">
+    <div class="resp-sharing-button resp-sharing-button--linkedin resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"/></svg>
+      </div>
+    </div>
+  </a>
 
-#  Links to Support Initiatives
+  <!-- Sharingbutton WhatsApp -->
+  <a class="resp-sharing-button__link" href="whatsapp://send?text=COVID-19%20Relief%20Efforts%20in%20India.%20A%20list%20of%20initiatives%20to%20support%20vulnerable%20groups%20during%20the%20COVID-19%20pandemic%20and%20national%20lockdown.%20https%3A%2F%2Findiacovidrelief.github.io%2F" target="_blank" rel="noopener" aria-label="">
+    <div class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"/></svg>
+      </div>
+    </div>
+  </a>
 
-Please select the beneficiaries/areas to display lists of relevant campaigns. Use the **Reset All Filters** button to see initiatives for all other beneficiaries/areas.
+</section>
 
-<section  class="page-header">
-
+<section  id="table-filter" class="page-em">
 <div class="form-group">
   <select class="form-control dropdown" id="_location_filter" filter="location">
       <option selected value="all">-- All Locations --</option>
+      <option value="india">Pan India</option>
       <option value="mumbai">Mumbai</option>
       <option value="delhi">Delhi</option>
       <option value="bangalore">Bangalore</option>
-    </select>
-  <select class="form-control dropdown" id="_type_filter" filter="type">
+      <option value="other-loc">Other Locations</option>
+  </select>
+  <br>
+  <select class="form-control dropdown" id="_people_filter" filter="people">
       <option selected value="all">-- All Beneficiaries --</option>
       <option value="wage-workers">Daily Wage Workers</option>
       <option value="homeless">Homeless</option>
       <option value="trash-pickers">Trash Pickers</option>
+      <option value="migrant-workers">Migrant Workers</option>
+      <option value="domestic-workers">Domestic Workers</option>
+      <option value="other-ben">Other Beneficiaries</option>
+  </select>
+  <br>
+  <select class="form-control dropdown" id="_helptype_filter" filter="helptype">
+      <option selected value="all">-- All Forms of Support --</option>
+      <option value="cash">Cash</option>
+      <option value="food">Food</option>
+      <option value="homeless">Ration</option>
+      <option value="sanitation">Sanitation</option>
+      <option value="ppe">PPE</option>
+      <option value="other-sup">Other Suppplies</option>
   </select>
 </div>
 
 <hr>
-<a class="btn _reset_filter ibtn" filter="all-campaigns" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_reset_filter">Reset all filters</a>
-
+<a class="btn _reset_filter ibtn" filter="all-campaigns" style="display:inline-block;text-align:center;text-decoration:none" id="_reset_filter">Reset Filters</a>
 </section>
 
-
-While the citizen-led campaigns need your financial support and encouragement to continue their noble efforts, the central and state governments are also accepting donations for their respective relief funds. A list of all such funds can be found on [this link](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19).
-
 <br>
-<br>
-
 <table id="main-table">
   <thead>
     <tr>
@@ -150,280 +403,328 @@ While the citizen-led campaigns need your financial support and encouragement to
     </tr>
   </thead>
   <tbody>
-        <tr class="   wage-workers  ">
-         <td>Give India - Support Families <br /><span style="font-size:0.8em"> [<a href="https://indiafightscorona.giveindia.org/support-families/">Go To Page</a>] [<a href="#give-india---support-families">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Cash</td>
-         <td>Pan India</td>
+        <tr class="no-rows-found" id="no-rows-found">
+            <td colspan="4" style="text-align: center;">No campaigns found! Please reset the filters.</td>
         </tr>
-        <tr class="   wage-workers  ">
-         <td>Zomato India <br /><span style="font-size:0.8em"> [<a href="https://www.zomato.com/blog/feed-daily-wager">Go To Page</a>] [<a href="#zomato-india">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="     ">
-         <td>Kanaga (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-kanaga">Go To Page</a>] [<a href="#kanaga-personal-campaign">Details</a>]</span></td>
-         <td>Trans persons</td>
-         <td>Ration kits</td>
-         <td>Chennai</td>
-        </tr>
-        <tr class=" delhi    trash-pickers">
-         <td>Paigam <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view">Go To Page</a>] [<a href="#paigam">Details</a>]</span></td>
-         <td>Waste pickers</td>
-         <td>Cash, safety kits</td>
-         <td>Delhi</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Goonj - Rahat COVID-19 <br /><span style="font-size:0.8em"> [<a href="https://goonj.org/support-covid-19-affected/">Go To Page</a>] [<a href="#goonj---rahat-covid-19">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Elixir Foundation <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view">Go To Page</a>] [<a href="#elixir-foundation">Details</a>]</span></td>
-         <td>Daily wage workers, old age homes, shelters</td>
-         <td>Ration kits</td>
-         <td>Ahmedabad</td>
-        </tr>
-        <tr class="  bangalore wage-workers homeless ">
-         <td>SAFA Society <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/Covid19Relief">Go To Page</a>] [<a href="#safa-society">Details</a>]</span></td>
-         <td>Daily wage workers, migrant workers, street children, single parents, beggars</td>
-         <td>Ration kits, hygeine kits</td>
-         <td>Hyderabad, North Karnataka, Bangalore, Chennai</td>
-        </tr>
-        <tr class="mumbai delhi  wage-workers  ">
-         <td>Venkat Iyer (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-venkat-iyer">Go To Page</a>] [<a href="#venkat-iyer-personal-campaign">Details</a>]</span></td>
-         <td>Daily wagers, domestic workers</td>
-         <td>Food, medicines</td>
-         <td>Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat, Malegaon</td>
-        </tr>
-        <tr class="    homeless ">
-         <td>Uday Foundation <br /><span style="font-size:0.8em"> [<a href="https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA">Go To Page</a>] [<a href="#uday-foundation">Details</a>]</span></td>
-         <td>Homeless persons</td>
-         <td>Food, soap</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class=" delhi  wage-workers  ">
-         <td>Delhi Youth Welfare Association <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/covid19Delhi">Go To Page</a>] [<a href="#delhi-youth-welfare-association">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Cash</td>
-         <td>Delhi</td>
-        </tr>
-        <tr class="mumbai   wage-workers  ">
-         <td>YUVA <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action">Go To Page</a>] [<a href="#yuva">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits</td>
-         <td>Mumbai</td>
-        </tr>
-        <tr class="mumbai     ">
-         <td>Making The Difference <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view">Go To Page</a>] [<a href="#making-the-difference">Details</a>]</span></td>
-         <td>Underprivileged</td>
-         <td>Ration kits</td>
-         <td>Mumbai</td>
-        </tr>
-        <tr class="mumbai     ">
-         <td>Help for Sex Workers (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form">Go To Page</a>] [<a href="#help-for-sex-workers-personal-campaign">Details</a>]</span></td>
-         <td>Sex workers</td>
-         <td>Ration kits</td>
-         <td>Mumbai</td>
-        </tr>
-        <tr class="  bangalore   trash-pickers">
-         <td>Hasiru Dala <br /><span style="font-size:0.8em"> [<a href="http://hasirudala.in/news/wastepickers-and-covid19/">Go To Page</a>] [<a href="#hasiru-dala">Details</a>]</span></td>
-         <td>Waste pickers</td>
-         <td>Ration kits</td>
-         <td>Bangalore, Mysuru, Tumakuru, Davanagere, Hubli, Dharawad</td>
-        </tr>
-        <tr class="  bangalore   ">
-         <td>Sangama <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/supportsangama">Go To Page</a>] [<a href="#sangama">Details</a>]</span></td>
-         <td>Sex workers, trans persons</td>
-         <td>Ration kits, cash</td>
-         <td>Karnataka</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Chhoti Si Aasha <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/Covid19reliefCHD">Go To Page</a>] [<a href="#chhoti-si-aasha">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Cash</td>
-         <td>Chandigarh, Mohali, Panchkula</td>
-        </tr>
-        <tr class=" delhi  wage-workers  ">
-         <td>Meraj Foundation <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/MerajFoundation">Go To Page</a>] [<a href="#meraj-foundation">Details</a>]</span></td>
-         <td>Differently abled, daily wage workers, domestic workers, gig workers</td>
-         <td>Essential items</td>
-         <td>Delhi</td>
-        </tr>
-        <tr class="     trash-pickers">
-         <td>Kashtakari Panchayat <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/Covid19Pune">Go To Page</a>] [<a href="#kashtakari-panchayat">Details</a>]</span></td>
-         <td>Waste pickers</td>
-         <td>Ration kits, Personal Protective Equipment (PPE)</td>
-         <td>Pune</td>
-        </tr>
-        <tr class="    homeless ">
-         <td>Upay <br /><span style="font-size:0.8em"> [<a href="https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless">Go To Page</a>] [<a href="#upay">Details</a>]</span></td>
-         <td>Homeless persons</td>
-         <td>Ration kits, food</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="mumbai    homeless ">
-         <td>Mumbai Roti Bank <br /><span style="font-size:0.8em"> [<a href="https://rotibankfoundation.org/">Go To Page</a>] [<a href="#mumbai-roti-bank">Details</a>]</span></td>
-         <td>Homeless persons</td>
-         <td>Food</td>
-         <td>Mumbai</td>
-        </tr>
-        <tr class="mumbai delhi  wage-workers  ">
-         <td>Cash Relief <br /><span style="font-size:0.8em"> [<a href="http://www.cashrelief.org/covid-relief/">Go To Page</a>] [<a href="#cash-relief">Details</a>]</span></td>
-         <td>Daily wage workers, migrant workers, slum dwellers</td>
-         <td>Cash</td>
-         <td>Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Maruti Veer Jawan Trust <br /><span style="font-size:0.8em"> [<a href="https://www.instagram.com/marutiveerjawantrust/">Go To Page</a>] [<a href="#maruti-veer-jawan-trust">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Food</td>
-         <td>Surat</td>
-        </tr>
-        <tr class="     ">
-         <td>Grace Banu <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/trnsgndrrelieftoothukudi">Go To Page</a>] [<a href="#grace-banu">Details</a>]</span></td>
-         <td>Trans persons</td>
-         <td>Ration kits</td>
-         <td>Tuticorin</td>
-        </tr>
-        <tr class=" delhi  wage-workers  ">
-         <td>Gurgaon Nagrik Ekta Manch <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers">Go To Page</a>] [<a href="#gurgaon-nagrik-ekta-manch">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits, cash</td>
-         <td>Gurgaon</td>
-        </tr>
-        <tr class=" delhi  wage-workers  ">
-         <td>KMC-Ramjas Collective <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view">Go To Page</a>] [<a href="#kmc-ramjas-collective">Details</a>]</span></td>
-         <td>Daily wage workers, migrant workers</td>
-         <td>Ration kits, food, safety kits</td>
-         <td>Delhi</td>
-        </tr>
-        <tr class=" wage-workers ">
-         <td>Urban Company <br /><span style="font-size:0.8em"> [<a href="https://www.urbancompany.com/uc-relief-fund">Go To Page</a>] [<a href="#urban-company">Details</a>]</span></td>
-         <td>Gig workers</td>
-         <td>Health insurance</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="     ">
-         <td>CanKids KidsCan <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-cankids-kidscan-1?community=10177">Go To Page</a>] [<a href="#cankids-kidscan">Details</a>]</span></td>
-         <td>Children suffering from cancer</td>
-         <td>Cash, safety kits</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>India Care Covid <br /><span style="font-size:0.8em"> [<a href="https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE">Go To Page</a>] [<a href="#india-care-covid">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Cash</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="  bangalore wage-workers  ">
-         <td>Giweaway Foundation <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EXJCTralOep9xu/view">Go To Page</a>] [<a href="#giweaway-foundation">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits</td>
-         <td>Tamil Nadu, Karnataka, UP</td>
-        </tr>
-        <tr class=" delhi  wage-workers  ">
-         <td>Young India Fellows <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-saloni-6?">Go To Page</a>] [<a href="#young-india-fellows">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits</td>
-         <td>Delhi</td>
-        </tr>
-        <tr class="     trash-pickers">
-         <td>Centre For Applied Research and Peoples Engagement <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/support-our-kachra-vechaks-in-the-covid-times?payment=form">Go To Page</a>] [<a href="#centre-for-applied-research-and-peoples-engagement">Details</a>]</span></td>
-         <td>Sanitation workers, waste pickers</td>
-         <td>Ration kits, soap</td>
-         <td>Aurangabad</td>
-        </tr>
-        <tr class=" delhi  wage-workers  trash-pickers">
-         <td>Sarvahitey <br /><span style="font-size:0.8em"> [<a href="https://www.sarvahitey.org/donate">Go To Page</a>] [<a href="#sarvahitey">Details</a>]</span></td>
-         <td>Waste pickers, daily wage workers</td>
-         <td>Ration kits, soap, medicines</td>
-         <td>Gurgaon</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Samarpann <br /><span style="font-size:0.8em"> [<a href="https://samarpann.org.in/donation/">Go To Page</a>] [<a href="#samarpann">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits, sanitation kits</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="mumbai   wage-workers homeless ">
-         <td>Drona Foundation <br /><span style="font-size:0.8em"> [<a href="https://www.facebook.com/pg/dronafoundation/posts/">Go To Page</a>] [<a href="#drona-foundation">Details</a>]</span></td>
-         <td>Daily wage workers, domestic workers, gig workers, homeless persons</td>
-         <td>Ration kits, Personal Protective Equipment (PPE)</td>
-         <td>Mumbai, Pune</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>CARD <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_CTMN9rvsgOwage/view">Go To Page</a>] [<a href="#card">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits</td>
-         <td>Nagpur</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Richa Malik (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/daily-wage-workers-and-artisans-in-up-need-food-and-basic-essentials?payment=form">Go To Page</a>] [<a href="#richa-malik-personal-campaign">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits, soap</td>
-         <td>Uttar Pradesh</td>
-        </tr>
-        <tr class="  bangalore wage-workers  ">
-         <td>Feed My Bangalore <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/feedmybangalore">Go To Page</a>] [<a href="#feed-my-bangalore">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Food</td>
-         <td>Bangalore</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Sphoorti Foundation <br /><span style="font-size:0.8em"> [<a href="https://donatekart.com/Sphoorti/Sphoorti-corona-relief">Go To Page</a>] [<a href="#sphoorti-foundation">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Ration kits</td>
-         <td>Hyderabad</td>
-        </tr>
-        <tr class="   wage-workers  ">
-         <td>Milaan Foundation <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-milaan-foundation">Go To Page</a>] [<a href="#milaan-foundation">Details</a>]</span></td>
-         <td>Daily wage workers (women)</td>
-         <td>Cash</td>
-         <td>Uttar Pradesh</td>
-        </tr>
-        <tr class="     ">
-         <td>Sarvodaya Mitra Mandali + Bizongo <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-public-hospitals-across-india">Go To Page</a>] [<a href="#sarvodaya-mitra-mandali--bizongo">Details</a>]</span></td>
-         <td>Health care workers</td>
-         <td>Personal Protective Equipment (PPE)</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="     ">
-         <td>PharmEasy <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/COVID-19-Mask-2">Go To Page</a>] [<a href="#pharmeasy">Details</a>]</span></td>
-         <td>Health care workers</td>
-         <td>Personal Protective Equipment (PPE)</td>
-         <td>Pan India</td>
-        </tr>
-        <tr class="mumbai delhi  wage-workers  ">
-         <td>WeMakeIt <br /><span style="font-size:0.8em"> [<a href="https://wemakeit.com/projects/fight-hunger-fight-corona">Go To Page</a>] [<a href="#wemakeit">Details</a>]</span></td>
-         <td>Daily wage workers</td>
-         <td>Cash, ration kits, sanitation kits</td>
-         <td>Aurangabad, Cochin, Chennai, Delhi, Trichur, Mumbai</td>
-        </tr>
-        <tr class=" delhi  wage-workers  ">
-         <td>Nanhi Kashtiyan  <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EYQWEDmOg1nbzL/view">Go To Page</a>] [<a href="#nanhi-kashtiyan-">Details</a>]</span></td>
-         <td>Daily wagers, domestic workers</td>
-         <td>Ration kits, food, medicines</td>
-         <td>Delhi</td>
-        </tr>
-        <tr class=" delhi   homeless ">
-         <td>Karwan e Mohabbat <br /><span style="font-size:0.8em"> [<a href="https://covid19-afpi.ketto.org/fundraiser/help-labourers-and-migrants-in-delhi">Go To Page</a>] [<a href="#karwan-e-mohabbat">Details</a>]</span></td>
-         <td>Homeless persons</td>
-         <td>Ration kits, food</td>
-         <td>Delhi, Patna</td>
-        </tr>
-
+	<tr class="india wage-workers cash">
+	 <td>Give India - Support Families <br /><span style="font-size:0.8em"> [<a href="https://indiafightscorona.giveindia.org/support-families/">Go To Page</a>] [<a href="#give-india---support-families">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Cash</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="india wage-workers ration">
+	 <td>Zomato India <br /><span style="font-size:0.8em"> [<a href="https://www.zomato.com/blog/feed-daily-wager">Go To Page</a>] [<a href="#zomato-india">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="other-loc other-ben ration">
+	 <td>Kanaga (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-kanaga">Go To Page</a>] [<a href="#kanaga-personal-campaign">Details</a>]</span></td>
+	 <td>Trans persons</td>
+	 <td>Ration kits</td>
+	 <td>Chennai</td>
+	</tr>
+	<tr class="delhi trash-pickers cash">
+	 <td>Paigam <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view">Go To Page</a>] [<a href="#paigam">Details</a>]</span></td>
+	 <td>Waste pickers</td>
+	 <td>Cash, safety kits</td>
+	 <td>Delhi</td>
+	</tr>
+	<tr class="india wage-workers ration">
+	 <td>Goonj - Rahat COVID-19 <br /><span style="font-size:0.8em"> [<a href="https://goonj.org/support-covid-19-affected/">Go To Page</a>] [<a href="#goonj---rahat-covid-19">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="other-loc wage-workers ration">
+	 <td>Elixir Foundation <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view">Go To Page</a>] [<a href="#elixir-foundation">Details</a>]</span></td>
+	 <td>Daily wage workers, old age homes, shelters</td>
+	 <td>Ration kits</td>
+	 <td>Ahmedabad</td>
+	</tr>
+	<tr class="bangalore wage-workers homeless migrant-workers ration sanitation">
+	 <td>SAFA Society <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/Covid19Relief">Go To Page</a>] [<a href="#safa-society">Details</a>]</span></td>
+	 <td>Daily wage workers, migrant workers, homeless children, single parents, beggars</td>
+	 <td>Ration kits, sanitation kits</td>
+	 <td>Hyderabad, North Karnataka, Bangalore, Chennai</td>
+	</tr>
+	<tr class="mumbai delhi bangalore wage-workers domestic-workers food">
+	 <td>Venkat Iyer (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-venkat-iyer">Go To Page</a>] [<a href="#venkat-iyer-personal-campaign">Details</a>]</span></td>
+	 <td>Daily wage workers, domestic workers</td>
+	 <td>Food, medicines</td>
+	 <td>Delhi, Agra, Lucknow, Kanpur, Varanasi, Bangalore, Mumbai, Surat, Malegaon</td>
+	</tr>
+	<tr class="india homeless food sanitation">
+	 <td>Uday Foundation <br /><span style="font-size:0.8em"> [<a href="https://www.udayfoundation.org/coronavirus-disease-covid-19/?fbclid=IwAR05051YKouzPYii14L2CNPnS-I80PLgvAj_tw4NUuFxcDIlGl8AS6ft7FA">Go To Page</a>] [<a href="#uday-foundation">Details</a>]</span></td>
+	 <td>Homeless persons</td>
+	 <td>Food, sanitation kits</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="delhi wage-workers cash">
+	 <td>Delhi Youth Welfare Association <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/covid19Delhi">Go To Page</a>] [<a href="#delhi-youth-welfare-association">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Cash</td>
+	 <td>Delhi</td>
+	</tr>
+	<tr class="mumbai wage-workers ration">
+	 <td>YUVA <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-youth-for-unity-and-voluntary-action">Go To Page</a>] [<a href="#yuva">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits</td>
+	 <td>Mumbai</td>
+	</tr>
+	<tr class="mumbai other-ben ration">
+	 <td>Making The Difference <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EUwNKcGMyXoosk/view">Go To Page</a>] [<a href="#making-the-difference">Details</a>]</span></td>
+	 <td>Underprivileged</td>
+	 <td>Ration kits</td>
+	 <td>Mumbai</td>
+	</tr>
+	<tr class="mumbai other-ben ration">
+	 <td>Help for Sex Workers (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/covid-19-relief-fund-for-sex-workers-in-kamathipura?payment=form">Go To Page</a>] [<a href="#help-for-sex-workers-personal-campaign">Details</a>]</span></td>
+	 <td>Sex workers</td>
+	 <td>Ration kits</td>
+	 <td>Mumbai</td>
+	</tr>
+	<tr class="bangalore trash-pickers ration">
+	 <td>Hasiru Dala <br /><span style="font-size:0.8em"> [<a href="http://hasirudala.in/news/wastepickers-and-covid19/">Go To Page</a>] [<a href="#hasiru-dala">Details</a>]</span></td>
+	 <td>Waste pickers</td>
+	 <td>Ration kits</td>
+	 <td>Bangalore, Mysore, Tumakuru, Davanagere, Hubli, Dharawad</td>
+	</tr>
+	<tr class="other-loc other-ben cash ration">
+	 <td>Sangama <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/supportsangama">Go To Page</a>] [<a href="#sangama">Details</a>]</span></td>
+	 <td>Sex workers, trans persons</td>
+	 <td>Ration kits, cash</td>
+	 <td>Karnataka</td>
+	</tr>
+	<tr class="other-loc wage-workers cash">
+	 <td>Chhoti Si Aasha <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/Covid19reliefCHD">Go To Page</a>] [<a href="#chhoti-si-aasha">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Cash</td>
+	 <td>Chandigarh, Mohali, Panchkula</td>
+	</tr>
+	<tr class="delhi wage-workers domestic-workers ration">
+	 <td>Meraj Foundation <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/MerajFoundation">Go To Page</a>] [<a href="#meraj-foundation">Details</a>]</span></td>
+	 <td>Differently abled, daily wage workers, domestic workers, gig workers</td>
+	 <td>Ration kits</td>
+	 <td>Delhi</td>
+	</tr>
+	<tr class="other-loc trash-pickers ration ppe">
+	 <td>Kashtakari Panchayat <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/Covid19Pune">Go To Page</a>] [<a href="#kashtakari-panchayat">Details</a>]</span></td>
+	 <td>Waste pickers</td>
+	 <td>Ration kits, Personal Protective Equipment (PPE)</td>
+	 <td>Pune</td>
+	</tr>
+	<tr class="india homeless ration food">
+	 <td>Upay <br /><span style="font-size:0.8em"> [<a href="https://www.upay.org.in/crowd-fund/Help-us-fight-corona-and-feed-the-homeless">Go To Page</a>] [<a href="#upay">Details</a>]</span></td>
+	 <td>Homeless persons</td>
+	 <td>Ration kits, food</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="mumbai homeless food">
+	 <td>Mumbai Roti Bank <br /><span style="font-size:0.8em"> [<a href="https://rotibankfoundation.org/">Go To Page</a>] [<a href="#mumbai-roti-bank">Details</a>]</span></td>
+	 <td>Homeless persons</td>
+	 <td>Food</td>
+	 <td>Mumbai</td>
+	</tr>
+	<tr class="mumbai delhi wage-workers migrant-workers cash">
+	 <td>Cash Relief <br /><span style="font-size:0.8em"> [<a href="http://www.cashrelief.org/covid-relief/">Go To Page</a>] [<a href="#cash-relief">Details</a>]</span></td>
+	 <td>Daily wage workers, migrant workers, slum dwellers</td>
+	 <td>Cash</td>
+	 <td>Mumbai, Jaipur, Delhi, Kanpur, Madhya Pradesh</td>
+	</tr>
+	<tr class="other-loc wage-workers food">
+	 <td>Maruti Veer Jawan Trust <br /><span style="font-size:0.8em"> [<a href="https://www.instagram.com/marutiveerjawantrust/">Go To Page</a>] [<a href="#maruti-veer-jawan-trust">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Food</td>
+	 <td>Surat</td>
+	</tr>
+	<tr class="other-loc other-ben ration">
+	 <td>Grace Banu <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/trnsgndrrelieftoothukudi">Go To Page</a>] [<a href="#grace-banu">Details</a>]</span></td>
+	 <td>Trans persons</td>
+	 <td>Ration kits</td>
+	 <td>Tuticorin</td>
+	</tr>
+	<tr class="other-loc wage-workers cash ration">
+	 <td>Gurgaon Nagrik Ekta Manch <br /><span style="font-size:0.8em"> [<a href="https://www.ourdemocracy.in/Campaign/GurgaonDailyWageWorkers">Go To Page</a>] [<a href="#gurgaon-nagrik-ekta-manch">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits, cash</td>
+	 <td>Gurgaon</td>
+	</tr>
+	<tr class="delhi wage-workers migrant-workers ration food">
+	 <td>KMC-Ramjas Collective <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EXfaOUPkVTIPla/view">Go To Page</a>] [<a href="#kmc-ramjas-collective">Details</a>]</span></td>
+	 <td>Daily wage workers, migrant workers</td>
+	 <td>Ration kits, food, safety kits</td>
+	 <td>Delhi</td>
+	</tr>
+	<tr class="india other-ben other-sup">
+	 <td>Urban Company <br /><span style="font-size:0.8em"> [<a href="https://www.urbancompany.com/uc-relief-fund">Go To Page</a>] [<a href="#urban-company">Details</a>]</span></td>
+	 <td>Gig workers</td>
+	 <td>Health insurance</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="india other-ben cash">
+	 <td>CanKids KidsCan <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-cankids-kidscan-1?community=10177">Go To Page</a>] [<a href="#cankids-kidscan">Details</a>]</span></td>
+	 <td>Children suffering from cancer</td>
+	 <td>Cash, safety kits</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="india wage-workers cash">
+	 <td>India Care Covid <br /><span style="font-size:0.8em"> [<a href="https://docs.google.com/forms/d/1g0bfQT9YLH7RMsyG0zqof3amAlE9PzPk5kaRcTZLUgE">Go To Page</a>] [<a href="#india-care-covid">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Cash</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="other-loc wage-workers ration">
+	 <td>Giweaway Foundation <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EXJCTralOep9xu/view">Go To Page</a>] [<a href="#giweaway-foundation">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits</td>
+	 <td>Tamil Nadu, Karnataka, Uttar Pradesh</td>
+	</tr>
+	<tr class="delhi wage-workers ration">
+	 <td>Young India Fellows <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-saloni-6?">Go To Page</a>] [<a href="#young-india-fellows">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits</td>
+	 <td>Delhi</td>
+	</tr>
+	<tr class="other-loc trash-pickers ration sanitation">
+	 <td>Centre For Applied Research and Peoples Engagement <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/support-our-kachra-vechaks-in-the-covid-times?payment=form">Go To Page</a>] [<a href="#centre-for-applied-research-and-peoples-engagement">Details</a>]</span></td>
+	 <td>Sanitation workers, waste pickers</td>
+	 <td>Ration kits, sanitation kits</td>
+	 <td>Aurangabad</td>
+	</tr>
+	<tr class="other-loc wage-workers trash-pickers ration sanitation">
+	 <td>Sarvahitey <br /><span style="font-size:0.8em"> [<a href="https://www.sarvahitey.org/donate">Go To Page</a>] [<a href="#sarvahitey">Details</a>]</span></td>
+	 <td>Waste pickers, daily wage workers</td>
+	 <td>Ration kits, sanitation kits, medicines</td>
+	 <td>Gurgaon</td>
+	</tr>
+	<tr class="india wage-workers ration sanitation">
+	 <td>Samarpann <br /><span style="font-size:0.8em"> [<a href="https://samarpann.org.in/donation/">Go To Page</a>] [<a href="#samarpann">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits, sanitation kits</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="mumbai wage-workers homeless domestic-workers ration ppe">
+	 <td>Drona Foundation <br /><span style="font-size:0.8em"> [<a href="https://www.facebook.com/pg/dronafoundation/posts/">Go To Page</a>] [<a href="#drona-foundation">Details</a>]</span></td>
+	 <td>Daily wage workers, domestic workers, gig workers, homeless persons</td>
+	 <td>Ration kits, Personal Protective Equipment (PPE)</td>
+	 <td>Mumbai, Pune</td>
+	</tr>
+	<tr class="other-loc wage-workers ration">
+	 <td>CARD <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_CTMN9rvsgOwage/view">Go To Page</a>] [<a href="#card">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits</td>
+	 <td>Nagpur</td>
+	</tr>
+	<tr class="other-loc wage-workers ration sanitation">
+	 <td>Richa Malik (Personal Campaign) <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/daily-wage-workers-and-artisans-in-up-need-food-and-basic-essentials?payment=form">Go To Page</a>] [<a href="#richa-malik-personal-campaign">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits, sanitation kits</td>
+	 <td>Uttar Pradesh</td>
+	</tr>
+	<tr class="bangalore wage-workers food">
+	 <td>Feed My Bangalore <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/feedmybangalore">Go To Page</a>] [<a href="#feed-my-bangalore">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Food</td>
+	 <td>Bangalore</td>
+	</tr>
+	<tr class="other-loc wage-workers ration">
+	 <td>Sphoorti Foundation <br /><span style="font-size:0.8em"> [<a href="https://donatekart.com/Sphoorti/Sphoorti-corona-relief">Go To Page</a>] [<a href="#sphoorti-foundation">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits</td>
+	 <td>Hyderabad</td>
+	</tr>
+	<tr class="other-loc wage-workers cash">
+	 <td>Milaan Foundation <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-milaan-foundation">Go To Page</a>] [<a href="#milaan-foundation">Details</a>]</span></td>
+	 <td>Daily wage workers (women)</td>
+	 <td>Cash</td>
+	 <td>Uttar Pradesh</td>
+	</tr>
+	<tr class="india other-ben ppe">
+	 <td>Sarvodaya Mitra Mandali + Bizongo <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-public-hospitals-across-india">Go To Page</a>] [<a href="#sarvodaya-mitra-mandali--bizongo">Details</a>]</span></td>
+	 <td>Health care workers</td>
+	 <td>Personal Protective Equipment (PPE)</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="india other-ben ppe">
+	 <td>PharmEasy <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/COVID-19-Mask-2">Go To Page</a>] [<a href="#pharmeasy">Details</a>]</span></td>
+	 <td>Health care workers</td>
+	 <td>Personal Protective Equipment (PPE)</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="mumbai delhi wage-workers cash ration sanitation">
+	 <td>WeMakeIt <br /><span style="font-size:0.8em"> [<a href="https://wemakeit.com/projects/fight-hunger-fight-corona">Go To Page</a>] [<a href="#wemakeit">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Cash, ration kits, sanitation kits</td>
+	 <td>Aurangabad, Cochin, Chennai, Delhi, Trichur, Mumbai</td>
+	</tr>
+	<tr class="delhi wage-workers domestic-workers ration food">
+	 <td>Nanhi Kashtiyan  <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EYQWEDmOg1nbzL/view">Go To Page</a>] [<a href="#nanhi-kashtiyan-">Details</a>]</span></td>
+	 <td>Daily wage workers, domestic workers</td>
+	 <td>Ration kits, food, medicines</td>
+	 <td>Delhi</td>
+	</tr>
+	<tr class="delhi homeless ration food">
+	 <td>Karwan e Mohabbat <br /><span style="font-size:0.8em"> [<a href="https://covid19-afpi.ketto.org/fundraiser/help-labourers-and-migrants-in-delhi">Go To Page</a>] [<a href="#karwan-e-mohabbat">Details</a>]</span></td>
+	 <td>Homeless persons</td>
+	 <td>Ration kits, food</td>
+	 <td>Delhi, Patna</td>
+	</tr>
+	<tr class="mumbai wage-workers ration food">
+	 <td>Angel Xpress Foundation <br /><span style="font-size:0.8em"> [<a href="https://www.instamojo.com/angelxpress/donate-5da42/">Go To Page</a>] [<a href="#angel-xpress-foundation">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Ration kits, food</td>
+	 <td>Mumbai</td>
+	</tr>
+	<tr class="india wage-workers homeless migrant-workers cash ration food ppe sanitation">
+	 <td>ImpactGuru <br /><span style="font-size:0.8em"> [<a href="https://www.impactguru.com/fight-corona?">Go To Page</a>] [<a href="#impactguru">Details</a>]</span></td>
+	 <td>Daily wage workers, migrant workers, homeless persons, elderly</td>
+	 <td>Cash, food, ration kits, sanitation kits, Personal Protective Equipment (PPE)</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="other-loc wage-workers food">
+	 <td>Feed My Hyderabad <br /><span style="font-size:0.8em"> [<a href="http://www.feedmyhyderabad.org/">Go To Page</a>] [<a href="#feed-my-hyderabad">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Food</td>
+	 <td>Hyderabad</td>
+	</tr>
+	<tr class="india other-ben ration">
+	 <td>Ola Foundation <br /><span style="font-size:0.8em"> [<a href="https://ola.foundation/donate">Go To Page</a>] [<a href="#ola-foundation">Details</a>]</span></td>
+	 <td>Cab drivers</td>
+	 <td>Ration kits, health insurance</td>
+	 <td>Pan India</td>
+	</tr>
+	<tr class="other-loc wage-workers other-sup">
+	 <td>Redemption Research for Health and Educational Development Society (RRHEDS) <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-rrheds">Go To Page</a>] [<a href="#redemption-research-for-health-and-educational-development-society-rrheds">Details</a>]</span></td>
+	 <td>Daily wage workers</td>
+	 <td>Medicines</td>
+	 <td>Andhra Pradesh</td>
+	</tr>
+	<tr class="bangalore wage-workers homeless ration food">
+	 <td>WithBengaluru <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-with-bengaluru">Go To Page</a>] [<a href="#withbengaluru">Details</a>]</span></td>
+	 <td>Daily wage workers, slum dwellers, homeless persons</td>
+	 <td>Ration kits, food</td>
+	 <td>Bangalore</td>
+	</tr>
 
   </tbody>
 </table>
 
-Use the **Reset All Filters** button to see initiatives for all other beneficiaries/areas.
+<section class='page-em' style="padding:0.5em;margin-top:5%;padding:5%">
+<a class="btn _reset_filter ibtn" style="display:inline-block;text-align:center;text-decoration:none" id="_view_filter">View Filters</a>
+</section>
+
+**Note**:
+- This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
+- While the citizen-led campaigns need your financial support and encouragement to continue their noble efforts, the central and state governments are also accepting donations for their respective relief funds. A list of all such funds can be found on [this link](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19).
+
+
+<section class='page-em share-links' style="margin:0px">
+
+</section>
+
 
 <br>
-<br>
-
 
 ## Brief details
 
@@ -747,6 +1048,50 @@ We want to provide at least two nutritious meals roughly to 5,000 people a day a
 - Payment Modes Available: Cards, Net Banking, UPI, Wallets
 - 80G Eligible: Yes
 
+### [Angel Xpress Foundation](https://www.instamojo.com/angelxpress/donate-5da42/)
+Angel Xpress Foundation (AXF) is a social movement that aims to transform the behavior of underprivileged children through education and life skills to improve opportunities of livelihood.
+During the lockdown, volunteers of AXF are raising funds to feed the families of the children they educate, since most of them are daily wage earners and struggling. NOTE: please write 'AXF Santacruz' in the remarks section while donating.
+
+- Cities/States Covered: Mumbai
+- Payment Modes Available: Cards, Net Banking, UPI, Wallets
+- 80G Eligible: No
+
+### [ImpactGuru](https://www.impactguru.com/fight-corona?)
+Covid-19 crisis had adversely affected all of us in more ways than one. We, at ImpactGuru, understand the magnitude of the crisis and we urge you to join hands with us at this hour. We believe your influence can help the Covid-19 hit sections of the society get timely support and relief.
+
+- Cities/States Covered: Pan India
+- Payment Modes Available: Cards, Direct Bank Transfer, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [Feed My Hyderabad](http://www.feedmyhyderabad.org/)
+Ensure people don’t go hungry. Our aim is to feed the countless families of daily wage earners who are going hungry during the COVID-19 Pandemic Lockdown. We are on a mission to provide fresh meals to such families in the absence of a regular livelihood.
+
+- Cities/States Covered: Hyderabad
+- Payment Modes Available: Cards, Direct Bank Transfer, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
+
+### [Ola Foundation](https://ola.foundation/donate)
+The lockdown has severely impacted the livelihood of cab drivers, who have lost their sole source of income, and are burdened with car EMIs along with the daily expenses to sustain. This initiative will direct funds to provide staple supplies and COVID-19 medical insurance to families of these drivers, along with any medical emergency cover.
+
+- Cities/States Covered: Pan India
+- Payment Modes Available: Cards, UPI, Net Banking
+- 80G Eligible: Yes
+
+### [Redemption Research for Health and Educational Development Society (RRHEDS)](https://milaap.org/fundraisers/support-rrheds)
+The RRHEDS is distributing medical and sanitiation supplies including masks, soaps, sanitizers, etc. to the daily wage workers. Their network of volunteers coordinate with local district administration to identify and reach the beneficiaries.
+
+- Cities/States Covered: Andhra Pradesh
+- Payment Modes Available: Direct Bank Transfer, UPI, Wallets
+- 80G Eligible: Yes
+
+### [WithBengaluru](https://milaap.org/fundraisers/support-with-bengaluru)
+"WithBengaluru" is a citizen collective that is connecting NGOs, volunteer groups and individuals that are involved in social activities in the slums, and that can help in identifying beneficiaries, and create a supply chain of procuring and delivering the ration kits.
+
+- Cities/States Covered: Bangalore
+- Payment Modes Available: Direct Bank Transfer, UPI, Wallets
+- 80G Eligible: Yes
+
+
 
 
 
@@ -758,7 +1103,7 @@ We want to provide at least two nutritious meals roughly to 5,000 people a day a
 
 <script>
 
-var location_filter = undefined, type_filter = undefined;
+var location_filter = undefined, helptype_filter = undefined, people_filter = undefined;
 
 function runLocationFilter(e) {
   var select = e.target;
@@ -773,14 +1118,27 @@ function runLocationFilter(e) {
   applyFilter();
 }
 
-function runTypeFilter(e) {
+function runPeopleFilter(e) {
   var select = e.target;
 
   var value = select.value;
-  if (type_filter === value || value === "all") {
-    type_filter = undefined;
+  if (people_filter === value || value === "all") {
+    people_filter = undefined;
   } else {
-    type_filter = value;
+    people_filter = value;
+  }
+
+  applyFilter();
+}
+
+function runHelptypeFilter(e) {
+  var select = e.target;
+
+  var value = select.value;
+  if (helptype_filter === value || value === "all") {
+    helptype_filter = undefined;
+  } else {
+    helptype_filter = value;
   }
 
   applyFilter();
@@ -790,46 +1148,83 @@ function runAllFilter(e) {
   e.preventDefault();
   var btn = e.target;
 
-  type_filter = undefined;
+  helptype_filter = undefined;
   location_filter = undefined;
+  people_filter = undefined;
 
-  var typeFilter = document.getElementById('_type_filter');
-  typeFilter.selectedIndex = 0;
+  var peopleFilter = document.getElementById('_people_filter');
+  peopleFilter.selectedIndex = 0;
 
   var locationFilter = document.getElementById('_location_filter');
   locationFilter.selectedIndex = 0;
 
+  var helptypeFilter = document.getElementById('_helptype_filter');
+  helptypeFilter.selectedIndex = 0;
+
   applyFilter();
+}
+
+function scrollToTable(){
+  var ui_elem = document.getElementById("main-table");
+  ui_elem.scrollIntoView({"behavior": "smooth"});
+}
+
+function scrollToFilter(){
+  var ui_elem = document.getElementById("table-filter");
+  ui_elem.scrollIntoView({"behavior": "smooth"});
 }
 
 function applyFilter() {
   var main_table = document.getElementById("main-table");
   var table_body = main_table.getElementsByTagName("tbody")[0];
   var rows = table_body.getElementsByTagName("tr");
+  document.getElementById("no-rows-found").style.display = "none";
 
+  var row_found = false;
   for (let row of rows) {
+    if (row.classList.contains("no-rows-found")) {
+      continue;
+    };
     row.style.display = "table-row";
 
-    if (type_filter && !row.classList.contains(type_filter)) {
+    if (people_filter && !row.classList.contains(people_filter)) {
+      row.style.display = "none";
+    }
+
+    if (helptype_filter && !row.classList.contains(helptype_filter)) {
       row.style.display = "none";
     }
 
     if (location_filter && !row.classList.contains(location_filter)) {
       row.style.display = "none";
     }
+
+    if (row.style.display == "table-row") {
+      row_found = true;
+    }
   }
 
-  main_table.scrollIntoView({"behavior": "smooth"});
+  if (!row_found) {
+    document.getElementById("no-rows-found").style.display = "table-row";
+  }
+
 }
 
 var locationFilter = document.getElementById('_location_filter');
 locationFilter.onchange = runLocationFilter;
 
-var typeFilter = document.getElementById('_type_filter');
-typeFilter.onchange = runTypeFilter;
+var helptypeFilter = document.getElementById('_helptype_filter');
+helptypeFilter.onchange = runHelptypeFilter;
+
+var peopleFilter = document.getElementById('_people_filter');
+peopleFilter.onchange = runPeopleFilter;
+
 
 resetFilterButton = document.getElementById('_reset_filter');
 resetFilterButton.onclick = runAllFilter;
+
+viewFilterButton = document.getElementById('_view_filter');
+viewFilterButton.onclick=scrollToFilter;
 
 function domain(url) {
     return url.replace('http://','').replace('https://','').split('/')[0];
@@ -846,5 +1241,7 @@ for (link of links) {
     link.setAttribute('onclick', "captureOutboundLink('" + href + "'); return false;");
   }
 }
+
+document.getElementById("no-rows-found").style.display = "none";
 
 </script>
