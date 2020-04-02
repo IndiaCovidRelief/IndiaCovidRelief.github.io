@@ -59,7 +59,6 @@ table th:nth-of-type(4) {
 .dropdown {
     display: inline;
     width: 40%;
-    padding: .375rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
     color: rgba(255, 255, 255, 0.7);
