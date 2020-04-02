@@ -146,7 +146,7 @@ table th:nth-of-type(4) {
 
 <table id="main-table">
   <thead>
-    <tr style="background-color: #159957;background-image: linear-gradient(120deg, #155799, #159957)">
+    <tr style="color: #fff;background-color: #159957;background-image: linear-gradient(120deg, #155799, #159957)">
       <th>Organization</th>
       <th>Beneficiaries</th>
       <th>Support Provided</th>
