@@ -595,31 +595,31 @@ background-color: #FF6600
          <td>Cash</td>
          <td>Uttar Pradesh</td>
         </tr>
-        <tr class="     ">
+        <tr class="india other-ben ppe">
          <td>Sarvodaya Mitra Mandali + Bizongo <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-public-hospitals-across-india">Go To Page</a>] [<a href="#sarvodaya-mitra-mandali--bizongo">Details</a>]</span></td>
          <td>Health care workers</td>
          <td>Personal Protective Equipment (PPE)</td>
          <td>Pan India</td>
         </tr>
-        <tr class="     ">
+        <tr class="india other-ben ppe">
          <td>PharmEasy <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/COVID-19-Mask-2">Go To Page</a>] [<a href="#pharmeasy">Details</a>]</span></td>
          <td>Health care workers</td>
          <td>Personal Protective Equipment (PPE)</td>
          <td>Pan India</td>
         </tr>
-        <tr class="mumbai delhi  wage-workers  ">
+        <tr class="mumbai delhi wage-workers cash ration sanitation">
          <td>WeMakeIt <br /><span style="font-size:0.8em"> [<a href="https://wemakeit.com/projects/fight-hunger-fight-corona">Go To Page</a>] [<a href="#wemakeit">Details</a>]</span></td>
          <td>Daily wage workers</td>
          <td>Cash, ration kits, sanitation kits</td>
          <td>Aurangabad, Cochin, Chennai, Delhi, Trichur, Mumbai</td>
         </tr>
-        <tr class=" delhi  wage-workers  ">
+        <tr class="delhi wage-workers domestic-workers ration food">
          <td>Nanhi Kashtiyan  <br /><span style="font-size:0.8em"> [<a href="https://pages.razorpay.com/pl_EYQWEDmOg1nbzL/view">Go To Page</a>] [<a href="#nanhi-kashtiyan-">Details</a>]</span></td>
          <td>Daily wagers, domestic workers</td>
          <td>Ration kits, food, medicines</td>
          <td>Delhi</td>
         </tr>
-        <tr class=" delhi   homeless ">
+        <tr class="delhi homeless ration food">
          <td>Karwan e Mohabbat <br /><span style="font-size:0.8em"> [<a href="https://covid19-afpi.ketto.org/fundraiser/help-labourers-and-migrants-in-delhi">Go To Page</a>] [<a href="#karwan-e-mohabbat">Details</a>]</span></td>
          <td>Homeless persons</td>
          <td>Ration kits, food</td>
