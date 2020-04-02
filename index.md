@@ -333,7 +333,7 @@ background-color: #FF6600
   </select>
   <br>
   <select class="form-control dropdown" id="_helptype_filter" filter="helptype">
-      <option selected value="all">-- All Types --</option>
+      <option selected value="all">-- All Forms Of Support --</option>
       <option value="cash">Cash</option>
       <option value="food">Food</option>
       <option value="homeless">Ration</option>
