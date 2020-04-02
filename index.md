@@ -600,7 +600,7 @@ background-color: #FF6600
 </table>
 
 <section class='page-em' style="padding:0.5em;margin-top:5%;padding:5%">
-<a class="btn _reset_filter ibtn" style="display:inline-block;text-align:center;text-decoration:none" id="_view_filter">Change Filters</a>
+<a class="btn _reset_filter ibtn" style="display:inline-block;text-align:center;text-decoration:none" id="_view_filter">View Filters</a>
 </section>
 
 <section class='page-em share-links' style="padding-top:2.5%">
@@ -1030,7 +1030,9 @@ function applyFilter() {
 
   var row_found = false;
   for (let row of rows) {
-    if (row.classList.contains("no-row-found")) continue;
+    if (row.classList.contains("no-rows-found")) {
+      continue;
+    };
     row.style.display = "table-row";
 
     if (people_filter && !row.classList.contains(people_filter)) {
@@ -1045,12 +1047,10 @@ function applyFilter() {
       row.style.display = "none";
     }
 
-    console.log(row.style.display);
     if (row.style.display == "table-row") {
       row_found = true;
     }
   }
-
 
   if (!row_found) {
     document.getElementById("no-rows-found").style.display = "table-row";
