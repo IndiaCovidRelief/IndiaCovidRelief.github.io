@@ -144,27 +144,6 @@ table th:nth-of-type(4) {
 <a class="btn _reset_filter ibtn" filter="all-campaigns" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_reset_filter">Reset Filters</a>
 </section>
 
-
-<details>
-  <summary>India Needs Your Help (Read more)!</summary>
-
-Following WHO's declaration of COVID-19 as a <a href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020">global pandemic</a>, India instituted a 3-week long <a href="https://pib.gov.in/newsite/PrintRelease.aspx?relid=200655">national lockdown</a>. The shutting down of non-essential businesses has left about 400 million Indians (over 80% of our workforce) that work in the <a href="http://planningcommission.nic.in/aboutus/committee/wrkgrp11/wg11_rplabr.pdf">unorganised sector</a> uncertain of their income, and in most cases, their next meal.
-
-Scores of Indians have come together to set up philanthropist initiatives to support those who survive on irregular incomes and daily wages. **You can help these efforts by way of monetary donation.**
-
-This is an attempt to collate the several active campaigns that are working to bring essential commodities and other forms of support to vulnerable groups.
-</details>
-
-
-#  Links to Support Initiatives
-
-
-
-
-<section  class="page-em">
-<a class="btn _reset_filter ibtn" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_view_filter">View Filters</a>
-</section>
-
 <table id="main-table">
   <thead>
     <tr>
@@ -415,15 +394,15 @@ This is an attempt to collate the several active campaigns that are working to b
   </tbody>
 </table>
 
-Use the **All Campaigns** button to remove the filters and see all initiatives.
+<section class='page-em' style="padding:0.5em"> 
+<a class="btn _reset_filter ibtn" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_view_filter">Change Filters</a>
+</section>
 
 **Note**: 
 - This is not an exhaustive list of initiatives in India. If you know or are organising such an initiative, please submit your details on *[this form](https://forms.gle/6uLcxdyhKToDQoc68)*.
 - While the citizen-led campaigns need your financial support and encouragement to continue their noble efforts, the central and state governments are also accepting donations for their respective relief funds. A list of all such funds can be found on [this link](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19).
 
 <br>
-<br>
-
 
 ## Brief details
 
@@ -802,7 +781,7 @@ viewTableButton = document.getElementById('_view_table');
 viewTableButton.onclick=scrollToTable;
 
 viewFilterButton = document.getElementById('_view_filter');
-viewFilterButton.onclick=scrollToFilter;;
+viewFilterButton.onclick=scrollToFilter;
 
 function domain(url) {
     return url.replace('http://','').replace('https://','').split('/')[0];
