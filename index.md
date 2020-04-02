@@ -987,7 +987,7 @@ function runAllFilter(e) {
   locationFilter.selectedIndex = 0;
 
   var helptypeFilter = document.getElementById('_helptype_filter');
-  locationFilter.selectedIndex = 0;
+  helptypeFilter.selectedIndex = 0;
 
   applyFilter();
 }
