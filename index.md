@@ -127,26 +127,39 @@ table th:nth-of-type(4) {
 <div class="form-group">
   <select class="form-control dropdown" id="_location_filter" filter="location">
       <option selected value="all">-- All Locations --</option>
+      <option value="india">Pan India</option>
       <option value="mumbai">Mumbai</option>
       <option value="delhi">Delhi</option>
       <option value="bangalore">Bangalore</option>
+      <option value="other-loc">Other Locations</option>
     </select>
-  <select class="form-control dropdown" id="_type_filter" filter="type">
+  <select class="form-control dropdown" id="_people_filter" filter="people">
       <option selected value="all">-- All Beneficiaries --</option>
       <option value="wage-workers">Daily Wager</option>
       <option value="homeless">Homeless</option>
       <option value="trash-pickers">Trash Pickers</option>
+      <option value="migrant-workers">Migrant Workers</option>
+      <option value="domestic-workers">Domestic Workers</option>
+      <option value="other-ben">Other Beneficiaries</option>
+  </select>
+  <select class="form-control dropdown" id="_helptype_filter" filter="helptype">
+      <option selected value="all">-- All Type --</option>
+      <option value="cash">Cash</option>
+      <option value="food">Food</option>
+      <option value="homeless">Ration</option>
+      <option value="sanitation">Sanitation</option>
+      <option value="ppe">PPE</option>
+      <option value="other-sup">Other Suppplies</option>
   </select>
 </div>
 
 <hr>
-<a class="btn _reset_filter ibtn" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_view_table">View Campaigns</a>
 <a class="btn _reset_filter ibtn" filter="all-campaigns" style="width:10em;display:inline-block;text-align:center;text-decoration:none" id="_reset_filter">Reset Filters</a>
 </section>
 
 <table id="main-table">
   <thead>
-    <tr style="color: #fff;background-color: #159957;background-image: linear-gradient(120deg, #155799, #159957)">
+    <tr>
       <th>Organization</th>
       <th>Beneficiaries</th>
       <th>Support Provided</th>
@@ -696,7 +709,7 @@ Milaan Foundation along with its 12 grassroots partners are starting the "COVID 
 
 <script>
 
-var location_filter = undefined, type_filter = undefined;
+var location_filter = undefined, helptype_filter = undefined, people_filter = undefined;
 
 function runLocationFilter(e) {
   var select = e.target;
@@ -711,14 +724,27 @@ function runLocationFilter(e) {
   applyFilter();
 }
 
-function runTypeFilter(e) {
+function runPeopleFilter(e) {
   var select = e.target;
 
   var value = select.value;
-  if (type_filter === value || value === "all") {
-    type_filter = undefined;
+  if (people_filter === value || value === "all") {
+    people_filter = undefined;
   } else {
-    type_filter = value;
+    people_filter = value;
+  }
+
+  applyFilter();
+}
+
+function runHelptypeFilter(e) {
+  var select = e.target;
+
+  var value = select.value;
+  if (helptype_filter === value || value === "all") {
+    helptype_filter = undefined;
+  } else {
+    helptype_filter = value;
   }
 
   applyFilter();
@@ -728,13 +754,17 @@ function runAllFilter(e) {
   e.preventDefault();
   var btn = e.target;
 
-  type_filter = undefined;
+  helptype_filter = undefined;
   location_filter = undefined;
+  people_filter = undefined;
 
-  var typeFilter = document.getElementById('_type_filter');
-  typeFilter.selectedIndex = 0;
+  var peopleFilter = document.getElementById('_people_filter');
+  peopleFilter.selectedIndex = 0;
 
   var locationFilter = document.getElementById('_location_filter');
+  locationFilter.selectedIndex = 0;
+  
+  var helptypeFilter = document.getElementById('_helptype_filter');
   locationFilter.selectedIndex = 0;
 
   applyFilter();
@@ -758,7 +788,11 @@ function applyFilter() {
   for (let row of rows) {
     row.style.display = "table-row";
 
-    if (type_filter && !row.classList.contains(type_filter)) {
+    if (people_filter && !row.classList.contains(people_filter)) {
+      row.style.display = "none";
+    }
+    
+    if (helptype_filter && !row.classList.contains(helptype_filter)) {
       row.style.display = "none";
     }
     
@@ -771,14 +805,15 @@ function applyFilter() {
 var locationFilter = document.getElementById('_location_filter');
 locationFilter.onchange = runLocationFilter;
 
-var typeFilter = document.getElementById('_type_filter');
-typeFilter.onchange = runTypeFilter;
+var helptypeFilter = document.getElementById('_helptype_filter');
+helptypeFilter.onchange = runHelptypeFilter;
+
+var peopleFilter = document.getElementById('_people_filter');
+peopleFilter.onchange = runPeopleFilter;
+
 
 resetFilterButton = document.getElementById('_reset_filter');
 resetFilterButton.onclick = runAllFilter;
-
-viewTableButton = document.getElementById('_view_table');
-viewTableButton.onclick=scrollToTable;
 
 viewFilterButton = document.getElementById('_view_filter');
 viewFilterButton.onclick=scrollToFilter;
