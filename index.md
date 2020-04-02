@@ -95,7 +95,8 @@ table th:nth-of-type(4) {
 .share-links {
   margin: 0px;
   background: none;
-  margin-top: 2%;
+  margin-top: 1%;
+  padding: 1%;
 }
 
 @media screen and (min-width: 64em) {
@@ -311,7 +312,7 @@ background-color: #FF6600
 
 </style>
 
-<section class='page-em share-links'>
+<section class='page-em share-links' style="padding-top:0.1%">
 
   <!-- Sharingbutton Facebook -->
   <a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Findiacovidrelief.github.io%2F" target="_blank" rel="noopener" aria-label="">
