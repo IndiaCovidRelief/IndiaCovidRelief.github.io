@@ -120,7 +120,6 @@ table th:nth-of-type(4) {
      .dropdown {
         display: block;
         width: 95%;
-        margin-bottom: 10%;
      }
 
      .form-group {
