@@ -706,6 +706,27 @@ background-color: #FF6600
 	 <td>Ration kits, food</td>
 	 <td>Bangalore</td>
 	</tr>
+	<tr class="other-loc other-ben cash">
+	 <td>Shreni Community Trust <br /><span style="font-size:0.8em"> [<a href="https://milaap.org/fundraisers/support-weavers-and-artisans?">Go To Page</a>] [<a href="#shreni-community-trust">Details</a>]</span></td>
+	 <td>Artisans</td>
+	 <td>Cash</td>
+	 <td>Kallur, Shigli, Kamatagi, Guledgudda, Channapatna, Srikakulam, Gadwal</td>
+	</tr>
+	<tr class="mumbai delhi bangalore other-ben ration">
+	 <td>Cuddles foundation <br /><span style="font-size:0.8em"> [<a href="https://www.cuddlesfoundation.org/donate/">Go To Page</a>] [<a href="#cuddles-foundation">Details</a>]</span></td>
+	 <td>Underprivileged child cancer patients</td>
+	 <td>Ration kits</td>
+	 <td>Delhi, Mumbai, Bangalore, Chennai, Hyderabad, Lucknow, Calcutta, Vellore, Srinagar, Varanasi, Guwhati, Dibrughar, Pune - Total 33 cities</td>
+	</tr>
+	<tr class="mumbai wage-workers homeless ration food">
+	 <td>Mumbai Food Project by Pratham <br /><span style="font-size:0.8em"> [<a href="https://www.ketto.org/fundraiser/mumbaifoodproject?payment=form">Go To Page</a>] [<a href="#mumbai-food-project-by-pratham">Details</a>]</span></td>
+	 <td>Daily wage workers, homeless persons</td>
+	 <td>Ration kits, food</td>
+	 <td>Mumbai</td>
+	</tr>
+
+
+
 
   </tbody>
 </table>
@@ -1091,10 +1112,27 @@ The RRHEDS is distributing medical and sanitiation supplies including masks, soa
 - Payment Modes Available: Direct Bank Transfer, UPI, Wallets
 - 80G Eligible: Yes
 
+### [Shreni Community Trust](https://milaap.org/fundraisers/support-weavers-and-artisans?)
+Our efforts are to reach weavers and artisans who fall between the cracks of central and state government grants, as well as, informal-sector focused fundraisers.
+The Shreni Relief Fund aims to provide direct monetary support to weavers and artisans. Our aim to help their lack of access to monetary capital.
 
+- Cities/States Covered: Kallur, Shigli, Kamatagi, Guledgudda, Channapatna, Srikakulam, Gadwal
+- Payment Modes Available: Direct Bank Transfer, UPI, Wallets
+- 80G Eligible: Yes
 
+### [Cuddles foundation](https://www.cuddlesfoundation.org/donate/)
+The children are severely immunocompromised and most vulnerable to COVID-19. The fact that they have cancer and battling malnutrition will dramatically impact how their bodies handle condition like COVID-19. Hence we need to double our efforts post-lockdown and ramp up aid for supplements and ration
 
+- Cities/States Covered: Delhi, Mumbai, Bangalore, Chennai, Hyderabad, Lucknow, Calcutta, Vellore, Srinagar, Varanasi, Guwhati, Dibrughar, Pune - Total 33 cities
+- Payment Modes Available: Cards, Net Banking, Direct Bank Transfer
+- 80G Eligible: Yes
 
+### [Mumbai Food Project by Pratham](https://www.ketto.org/fundraiser/mumbaifoodproject?payment=form)
+Mumbai Food Project by Pratham Mumbai Education Initiative. Maharashtra is one of the worst hit States by tye pandemic. While most of us are safely confined to our homes with adequate food supplies, the underprivileged in Mumbai do not have access to basic necessities. Food camps and delivery points have been setup across Mumbai and rations will be provided.
+
+- Cities/States Covered: Mumbai
+- Payment Modes Available: Cards, Net Banking, UPI, Wallets
+- 80G Eligible: Yes
 
 
 <br>
